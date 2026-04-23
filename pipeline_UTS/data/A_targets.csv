@@ -1,0 +1,5001 @@
+Student_ID,placement_status,salary_lpa
+1,Placed,14.95
+2,Placed,14.91
+3,Placed,17.73
+4,Placed,14.52
+5,Placed,15.91
+6,Placed,14.27
+7,Placed,10.97
+8,Placed,13.41
+9,Placed,18.83
+10,Placed,17.66
+11,Placed,9.74
+12,Placed,19.73
+13,Placed,12.35
+14,Placed,13.72
+15,Placed,16.54
+16,Placed,20.0
+17,Placed,20.0
+18,Placed,13.7
+19,Placed,14.26
+20,Placed,20.0
+21,Not Placed,0.0
+22,Not Placed,0.0
+23,Placed,16.01
+24,Placed,16.37
+25,Placed,17.31
+26,Not Placed,0.0
+27,Placed,12.27
+28,Placed,15.53
+29,Placed,16.73
+30,Placed,16.24
+31,Placed,11.77
+32,Placed,17.94
+33,Placed,11.24
+34,Placed,13.94
+35,Placed,10.77
+36,Placed,11.87
+37,Placed,12.41
+38,Placed,16.37
+39,Placed,15.23
+40,Placed,13.14
+41,Placed,16.68
+42,Not Placed,0.0
+43,Placed,15.42
+44,Placed,16.76
+45,Placed,18.21
+46,Placed,20.0
+47,Placed,17.27
+48,Placed,10.5
+49,Placed,13.62
+50,Placed,18.1
+51,Placed,17.42
+52,Placed,17.28
+53,Placed,17.13
+54,Not Placed,0.0
+55,Placed,20.0
+56,Placed,15.23
+57,Placed,14.72
+58,Placed,19.77
+59,Placed,12.47
+60,Placed,12.77
+61,Placed,19.19
+62,Placed,10.4
+63,Placed,17.2
+64,Placed,7.63
+65,Placed,16.09
+66,Placed,12.29
+67,Placed,18.17
+68,Placed,15.12
+69,Placed,13.64
+70,Placed,19.62
+71,Placed,8.99
+72,Placed,11.1
+73,Placed,18.31
+74,Placed,13.97
+75,Placed,18.7
+76,Not Placed,0.0
+77,Not Placed,0.0
+78,Not Placed,0.0
+79,Not Placed,0.0
+80,Placed,18.4
+81,Placed,20.0
+82,Placed,14.28
+83,Placed,18.35
+84,Placed,17.57
+85,Placed,17.11
+86,Placed,15.23
+87,Not Placed,0.0
+88,Placed,16.56
+89,Not Placed,0.0
+90,Placed,14.84
+91,Placed,15.72
+92,Placed,19.59
+93,Placed,13.26
+94,Placed,16.65
+95,Placed,20.0
+96,Not Placed,0.0
+97,Placed,18.52
+98,Placed,19.01
+99,Placed,7.68
+100,Not Placed,0.0
+101,Placed,15.69
+102,Not Placed,0.0
+103,Placed,16.91
+104,Placed,14.52
+105,Placed,20.0
+106,Placed,20.0
+107,Placed,18.56
+108,Placed,12.05
+109,Placed,18.43
+110,Placed,17.61
+111,Placed,15.67
+112,Placed,15.97
+113,Placed,14.79
+114,Not Placed,0.0
+115,Placed,18.61
+116,Placed,14.47
+117,Placed,13.01
+118,Placed,13.6
+119,Placed,20.0
+120,Placed,19.84
+121,Placed,14.67
+122,Placed,18.84
+123,Placed,20.0
+124,Placed,19.4
+125,Placed,15.16
+126,Not Placed,0.0
+127,Not Placed,0.0
+128,Placed,10.82
+129,Placed,7.97
+130,Placed,11.65
+131,Placed,11.41
+132,Placed,14.68
+133,Placed,19.37
+134,Placed,15.87
+135,Placed,13.02
+136,Placed,15.49
+137,Placed,12.23
+138,Placed,15.44
+139,Placed,10.1
+140,Placed,19.99
+141,Placed,8.45
+142,Placed,17.29
+143,Placed,15.54
+144,Not Placed,0.0
+145,Placed,11.58
+146,Placed,17.42
+147,Not Placed,0.0
+148,Not Placed,0.0
+149,Placed,11.34
+150,Placed,11.49
+151,Placed,19.95
+152,Placed,14.35
+153,Placed,16.42
+154,Placed,13.36
+155,Placed,18.42
+156,Not Placed,0.0
+157,Placed,19.63
+158,Placed,11.41
+159,Placed,15.3
+160,Placed,14.43
+161,Not Placed,0.0
+162,Placed,15.66
+163,Placed,16.6
+164,Placed,10.4
+165,Placed,17.42
+166,Placed,13.29
+167,Placed,19.33
+168,Placed,13.39
+169,Placed,14.13
+170,Placed,18.77
+171,Placed,12.78
+172,Placed,15.98
+173,Placed,17.78
+174,Placed,20.0
+175,Placed,20.0
+176,Placed,18.33
+177,Placed,17.8
+178,Placed,12.45
+179,Placed,9.39
+180,Placed,18.74
+181,Placed,18.94
+182,Placed,18.94
+183,Placed,16.94
+184,Placed,17.8
+185,Placed,20.0
+186,Placed,19.51
+187,Placed,10.91
+188,Not Placed,0.0
+189,Placed,19.51
+190,Placed,20.0
+191,Placed,12.89
+192,Placed,13.67
+193,Placed,9.37
+194,Placed,10.93
+195,Placed,12.8
+196,Placed,8.42
+197,Placed,19.68
+198,Placed,16.33
+199,Placed,18.58
+200,Placed,19.08
+201,Placed,14.46
+202,Placed,14.28
+203,Placed,13.4
+204,Placed,16.71
+205,Placed,16.95
+206,Placed,10.63
+207,Placed,16.21
+208,Placed,10.95
+209,Placed,12.82
+210,Not Placed,0.0
+211,Placed,19.42
+212,Placed,16.41
+213,Placed,14.66
+214,Placed,17.83
+215,Not Placed,0.0
+216,Placed,9.74
+217,Placed,15.14
+218,Placed,20.0
+219,Not Placed,0.0
+220,Placed,19.34
+221,Placed,10.23
+222,Placed,16.48
+223,Placed,12.92
+224,Placed,16.42
+225,Placed,9.9
+226,Placed,16.34
+227,Placed,19.93
+228,Placed,16.71
+229,Placed,15.96
+230,Placed,9.31
+231,Placed,13.32
+232,Not Placed,0.0
+233,Placed,12.92
+234,Placed,9.73
+235,Placed,12.84
+236,Placed,16.19
+237,Not Placed,0.0
+238,Placed,15.73
+239,Placed,18.24
+240,Not Placed,0.0
+241,Placed,20.0
+242,Placed,12.18
+243,Not Placed,0.0
+244,Placed,17.61
+245,Not Placed,0.0
+246,Placed,11.92
+247,Placed,20.0
+248,Placed,20.0
+249,Placed,17.42
+250,Placed,17.14
+251,Placed,20.0
+252,Placed,15.22
+253,Placed,14.78
+254,Placed,16.21
+255,Placed,14.88
+256,Placed,18.45
+257,Placed,20.0
+258,Not Placed,0.0
+259,Not Placed,0.0
+260,Placed,18.53
+261,Placed,19.96
+262,Placed,19.15
+263,Placed,8.44
+264,Placed,15.04
+265,Placed,16.61
+266,Placed,15.99
+267,Placed,18.3
+268,Not Placed,0.0
+269,Not Placed,0.0
+270,Placed,17.43
+271,Placed,16.65
+272,Placed,9.14
+273,Placed,12.77
+274,Placed,15.64
+275,Placed,17.0
+276,Placed,15.26
+277,Placed,16.11
+278,Placed,20.0
+279,Placed,18.34
+280,Placed,16.6
+281,Placed,20.0
+282,Placed,18.9
+283,Placed,16.41
+284,Placed,20.0
+285,Placed,17.53
+286,Not Placed,0.0
+287,Placed,17.46
+288,Placed,17.01
+289,Placed,19.43
+290,Placed,13.59
+291,Placed,16.49
+292,Placed,20.0
+293,Placed,14.64
+294,Placed,13.34
+295,Placed,15.51
+296,Placed,15.57
+297,Placed,18.33
+298,Not Placed,0.0
+299,Placed,9.18
+300,Placed,17.23
+301,Placed,17.98
+302,Placed,19.89
+303,Placed,11.19
+304,Placed,20.0
+305,Placed,16.0
+306,Placed,10.98
+307,Placed,12.28
+308,Placed,18.49
+309,Placed,13.52
+310,Placed,12.59
+311,Placed,17.73
+312,Placed,20.0
+313,Placed,16.95
+314,Not Placed,0.0
+315,Placed,16.85
+316,Placed,18.37
+317,Placed,18.87
+318,Placed,12.7
+319,Placed,20.0
+320,Placed,15.03
+321,Placed,19.54
+322,Placed,18.55
+323,Not Placed,0.0
+324,Placed,14.7
+325,Placed,16.39
+326,Not Placed,0.0
+327,Placed,18.7
+328,Placed,16.79
+329,Placed,14.95
+330,Placed,18.56
+331,Placed,19.27
+332,Placed,16.65
+333,Placed,20.0
+334,Not Placed,0.0
+335,Placed,19.76
+336,Placed,11.2
+337,Placed,16.48
+338,Placed,16.25
+339,Placed,19.1
+340,Placed,15.16
+341,Placed,15.82
+342,Placed,9.89
+343,Placed,17.59
+344,Placed,12.39
+345,Placed,15.44
+346,Placed,18.73
+347,Placed,16.14
+348,Placed,13.03
+349,Not Placed,0.0
+350,Placed,19.95
+351,Not Placed,0.0
+352,Placed,17.04
+353,Placed,13.58
+354,Placed,16.03
+355,Placed,15.09
+356,Not Placed,0.0
+357,Placed,20.0
+358,Placed,16.66
+359,Placed,11.83
+360,Not Placed,0.0
+361,Placed,12.6
+362,Placed,14.19
+363,Placed,18.6
+364,Not Placed,0.0
+365,Placed,9.6
+366,Placed,16.13
+367,Placed,14.69
+368,Not Placed,0.0
+369,Placed,16.11
+370,Placed,20.0
+371,Not Placed,0.0
+372,Placed,15.48
+373,Placed,14.28
+374,Placed,15.35
+375,Placed,19.51
+376,Placed,14.28
+377,Placed,12.27
+378,Placed,15.98
+379,Placed,15.56
+380,Not Placed,0.0
+381,Not Placed,0.0
+382,Placed,17.11
+383,Placed,13.61
+384,Not Placed,0.0
+385,Placed,14.66
+386,Placed,16.9
+387,Placed,18.95
+388,Placed,12.11
+389,Placed,18.84
+390,Placed,16.81
+391,Placed,16.38
+392,Placed,8.66
+393,Placed,11.82
+394,Placed,12.8
+395,Placed,13.98
+396,Placed,17.78
+397,Placed,18.85
+398,Placed,16.07
+399,Placed,14.85
+400,Placed,14.51
+401,Placed,16.56
+402,Placed,18.91
+403,Placed,11.07
+404,Placed,14.31
+405,Placed,17.75
+406,Placed,14.69
+407,Placed,20.0
+408,Placed,12.32
+409,Placed,17.32
+410,Placed,15.36
+411,Placed,15.79
+412,Placed,16.79
+413,Placed,16.27
+414,Placed,18.43
+415,Not Placed,0.0
+416,Placed,16.63
+417,Placed,12.7
+418,Placed,9.05
+419,Placed,16.98
+420,Placed,14.27
+421,Placed,18.58
+422,Placed,14.13
+423,Placed,10.06
+424,Not Placed,0.0
+425,Placed,8.94
+426,Placed,10.89
+427,Placed,20.0
+428,Placed,16.44
+429,Placed,14.22
+430,Not Placed,0.0
+431,Not Placed,0.0
+432,Placed,15.18
+433,Placed,18.19
+434,Placed,20.0
+435,Placed,15.84
+436,Not Placed,0.0
+437,Placed,16.78
+438,Not Placed,0.0
+439,Placed,19.7
+440,Placed,12.48
+441,Placed,15.61
+442,Placed,20.0
+443,Placed,17.16
+444,Placed,17.79
+445,Placed,11.61
+446,Placed,20.0
+447,Placed,10.3
+448,Placed,15.59
+449,Placed,15.49
+450,Not Placed,0.0
+451,Placed,20.0
+452,Placed,17.88
+453,Placed,19.57
+454,Placed,16.39
+455,Placed,14.77
+456,Placed,19.01
+457,Placed,16.02
+458,Not Placed,0.0
+459,Placed,16.89
+460,Placed,12.62
+461,Placed,15.69
+462,Placed,18.27
+463,Placed,18.57
+464,Not Placed,0.0
+465,Not Placed,0.0
+466,Not Placed,0.0
+467,Not Placed,0.0
+468,Placed,19.68
+469,Placed,12.99
+470,Placed,17.38
+471,Not Placed,0.0
+472,Not Placed,0.0
+473,Not Placed,0.0
+474,Placed,11.99
+475,Not Placed,0.0
+476,Placed,20.0
+477,Placed,15.19
+478,Placed,14.91
+479,Placed,18.61
+480,Placed,18.01
+481,Not Placed,0.0
+482,Placed,13.82
+483,Not Placed,0.0
+484,Placed,11.73
+485,Placed,14.41
+486,Placed,20.0
+487,Placed,18.4
+488,Placed,14.44
+489,Placed,10.35
+490,Placed,20.0
+491,Placed,20.0
+492,Placed,13.59
+493,Placed,13.15
+494,Placed,20.0
+495,Placed,18.25
+496,Placed,20.0
+497,Placed,17.02
+498,Placed,11.56
+499,Placed,16.84
+500,Placed,10.53
+501,Placed,10.93
+502,Placed,18.31
+503,Placed,15.51
+504,Placed,12.48
+505,Placed,19.01
+506,Not Placed,0.0
+507,Not Placed,0.0
+508,Placed,18.49
+509,Placed,20.0
+510,Placed,13.65
+511,Placed,17.77
+512,Placed,20.0
+513,Placed,18.13
+514,Placed,13.82
+515,Placed,10.53
+516,Placed,12.08
+517,Placed,15.76
+518,Not Placed,0.0
+519,Placed,20.0
+520,Placed,8.51
+521,Placed,16.97
+522,Placed,15.56
+523,Placed,20.0
+524,Not Placed,0.0
+525,Placed,20.0
+526,Placed,17.77
+527,Placed,15.66
+528,Placed,13.92
+529,Placed,11.41
+530,Placed,16.87
+531,Placed,17.04
+532,Placed,14.93
+533,Placed,15.64
+534,Placed,12.66
+535,Placed,20.0
+536,Placed,19.66
+537,Placed,15.58
+538,Placed,16.22
+539,Placed,14.75
+540,Placed,20.0
+541,Not Placed,0.0
+542,Placed,15.7
+543,Placed,9.24
+544,Placed,14.08
+545,Placed,12.77
+546,Placed,19.59
+547,Placed,18.58
+548,Not Placed,0.0
+549,Placed,20.0
+550,Placed,20.0
+551,Placed,15.38
+552,Not Placed,0.0
+553,Placed,17.41
+554,Placed,10.61
+555,Placed,15.58
+556,Not Placed,0.0
+557,Not Placed,0.0
+558,Not Placed,0.0
+559,Placed,19.38
+560,Placed,15.49
+561,Placed,16.2
+562,Placed,20.0
+563,Placed,17.19
+564,Placed,14.5
+565,Placed,20.0
+566,Not Placed,0.0
+567,Not Placed,0.0
+568,Placed,16.77
+569,Placed,20.0
+570,Placed,16.27
+571,Placed,18.38
+572,Placed,18.4
+573,Placed,13.34
+574,Placed,17.03
+575,Not Placed,0.0
+576,Placed,20.0
+577,Placed,19.44
+578,Placed,14.13
+579,Placed,16.03
+580,Placed,16.69
+581,Placed,19.07
+582,Placed,20.0
+583,Placed,20.0
+584,Not Placed,0.0
+585,Placed,12.07
+586,Placed,20.0
+587,Placed,17.63
+588,Placed,11.21
+589,Placed,20.0
+590,Placed,16.02
+591,Placed,20.0
+592,Placed,12.73
+593,Placed,15.47
+594,Placed,17.8
+595,Placed,17.94
+596,Placed,11.65
+597,Placed,16.74
+598,Not Placed,0.0
+599,Placed,12.33
+600,Placed,16.28
+601,Not Placed,0.0
+602,Not Placed,0.0
+603,Placed,11.33
+604,Placed,14.42
+605,Not Placed,0.0
+606,Not Placed,0.0
+607,Placed,20.0
+608,Placed,20.0
+609,Placed,14.9
+610,Placed,10.8
+611,Placed,14.82
+612,Placed,12.75
+613,Not Placed,0.0
+614,Placed,15.43
+615,Placed,20.0
+616,Placed,18.77
+617,Placed,11.92
+618,Placed,18.76
+619,Placed,19.21
+620,Placed,18.38
+621,Placed,19.08
+622,Placed,20.0
+623,Placed,19.07
+624,Placed,17.92
+625,Placed,20.0
+626,Placed,14.89
+627,Placed,12.95
+628,Placed,10.49
+629,Placed,14.3
+630,Placed,20.0
+631,Placed,11.18
+632,Placed,13.76
+633,Placed,18.0
+634,Placed,16.48
+635,Placed,20.0
+636,Placed,17.88
+637,Placed,17.61
+638,Placed,15.18
+639,Placed,15.24
+640,Placed,20.0
+641,Placed,16.95
+642,Placed,18.51
+643,Placed,16.62
+644,Placed,18.89
+645,Placed,9.56
+646,Placed,16.31
+647,Placed,14.94
+648,Not Placed,0.0
+649,Placed,9.77
+650,Not Placed,0.0
+651,Placed,11.56
+652,Placed,17.14
+653,Placed,12.29
+654,Placed,17.6
+655,Placed,20.0
+656,Placed,18.74
+657,Not Placed,0.0
+658,Placed,20.0
+659,Not Placed,0.0
+660,Placed,11.29
+661,Placed,15.44
+662,Placed,12.64
+663,Placed,15.59
+664,Placed,16.16
+665,Not Placed,0.0
+666,Placed,14.29
+667,Not Placed,0.0
+668,Placed,16.85
+669,Placed,13.74
+670,Placed,13.92
+671,Placed,18.46
+672,Placed,11.44
+673,Not Placed,0.0
+674,Placed,14.07
+675,Placed,17.61
+676,Not Placed,0.0
+677,Placed,12.42
+678,Placed,17.72
+679,Placed,20.0
+680,Placed,16.53
+681,Placed,11.44
+682,Placed,13.33
+683,Placed,10.81
+684,Placed,14.63
+685,Placed,20.0
+686,Placed,8.9
+687,Not Placed,0.0
+688,Placed,12.35
+689,Placed,20.0
+690,Placed,11.95
+691,Placed,16.47
+692,Placed,17.13
+693,Placed,15.46
+694,Not Placed,0.0
+695,Not Placed,0.0
+696,Placed,11.96
+697,Placed,17.28
+698,Placed,19.63
+699,Placed,18.34
+700,Placed,19.23
+701,Placed,17.98
+702,Not Placed,0.0
+703,Placed,15.74
+704,Placed,18.72
+705,Placed,19.0
+706,Placed,18.39
+707,Placed,20.0
+708,Placed,17.02
+709,Placed,14.94
+710,Not Placed,0.0
+711,Placed,17.28
+712,Placed,18.83
+713,Placed,15.71
+714,Placed,17.58
+715,Not Placed,0.0
+716,Placed,17.81
+717,Placed,19.89
+718,Placed,17.86
+719,Placed,14.28
+720,Placed,20.0
+721,Placed,17.27
+722,Placed,15.95
+723,Placed,17.37
+724,Placed,20.0
+725,Placed,19.19
+726,Not Placed,0.0
+727,Not Placed,0.0
+728,Placed,20.0
+729,Placed,18.45
+730,Placed,18.0
+731,Placed,14.79
+732,Not Placed,0.0
+733,Placed,11.62
+734,Placed,11.62
+735,Placed,16.47
+736,Placed,15.21
+737,Placed,10.74
+738,Placed,14.02
+739,Placed,15.21
+740,Not Placed,0.0
+741,Placed,20.0
+742,Placed,12.98
+743,Placed,16.53
+744,Placed,18.02
+745,Placed,14.16
+746,Placed,15.17
+747,Placed,17.37
+748,Placed,10.78
+749,Placed,16.11
+750,Placed,13.72
+751,Placed,19.82
+752,Placed,17.01
+753,Placed,18.02
+754,Placed,13.99
+755,Placed,17.09
+756,Placed,16.78
+757,Placed,13.42
+758,Not Placed,0.0
+759,Placed,16.03
+760,Placed,9.69
+761,Placed,10.13
+762,Placed,10.75
+763,Placed,20.0
+764,Placed,16.56
+765,Placed,17.99
+766,Placed,14.63
+767,Placed,17.95
+768,Placed,13.22
+769,Placed,16.88
+770,Placed,19.59
+771,Not Placed,0.0
+772,Placed,15.17
+773,Placed,19.72
+774,Placed,16.1
+775,Placed,15.69
+776,Not Placed,0.0
+777,Placed,18.13
+778,Placed,15.03
+779,Placed,19.02
+780,Not Placed,0.0
+781,Placed,17.02
+782,Placed,17.99
+783,Placed,15.85
+784,Placed,19.51
+785,Placed,11.98
+786,Placed,17.81
+787,Not Placed,0.0
+788,Placed,17.86
+789,Placed,20.0
+790,Placed,12.99
+791,Not Placed,0.0
+792,Placed,12.04
+793,Placed,11.98
+794,Placed,13.68
+795,Not Placed,0.0
+796,Not Placed,0.0
+797,Placed,16.71
+798,Placed,9.05
+799,Placed,20.0
+800,Placed,19.57
+801,Placed,20.0
+802,Placed,14.41
+803,Placed,15.5
+804,Not Placed,0.0
+805,Placed,15.34
+806,Placed,20.0
+807,Placed,10.77
+808,Placed,20.0
+809,Placed,10.54
+810,Placed,19.58
+811,Placed,20.0
+812,Placed,17.16
+813,Placed,14.86
+814,Placed,17.76
+815,Placed,15.46
+816,Placed,16.4
+817,Placed,19.2
+818,Placed,17.77
+819,Placed,18.92
+820,Placed,20.0
+821,Placed,12.69
+822,Placed,14.62
+823,Placed,11.65
+824,Placed,12.24
+825,Placed,14.65
+826,Placed,20.0
+827,Placed,12.92
+828,Placed,16.19
+829,Placed,19.66
+830,Not Placed,0.0
+831,Placed,19.5
+832,Placed,7.79
+833,Placed,17.26
+834,Placed,20.0
+835,Placed,14.46
+836,Placed,11.31
+837,Placed,17.0
+838,Placed,13.65
+839,Placed,17.57
+840,Not Placed,0.0
+841,Placed,9.93
+842,Placed,20.0
+843,Placed,13.33
+844,Placed,13.83
+845,Placed,20.0
+846,Placed,18.42
+847,Placed,15.24
+848,Placed,13.02
+849,Placed,11.23
+850,Placed,12.78
+851,Placed,20.0
+852,Placed,18.31
+853,Placed,18.06
+854,Not Placed,0.0
+855,Not Placed,0.0
+856,Placed,19.44
+857,Placed,16.21
+858,Placed,16.85
+859,Placed,12.36
+860,Placed,16.09
+861,Placed,17.07
+862,Placed,14.09
+863,Placed,18.13
+864,Placed,20.0
+865,Placed,15.33
+866,Placed,11.99
+867,Placed,12.42
+868,Placed,20.0
+869,Placed,19.79
+870,Not Placed,0.0
+871,Placed,20.0
+872,Placed,20.0
+873,Not Placed,0.0
+874,Placed,11.83
+875,Placed,20.0
+876,Placed,20.0
+877,Placed,16.97
+878,Placed,9.16
+879,Placed,15.79
+880,Placed,14.52
+881,Placed,11.38
+882,Not Placed,0.0
+883,Placed,12.57
+884,Placed,14.96
+885,Placed,14.66
+886,Placed,12.89
+887,Not Placed,0.0
+888,Placed,19.62
+889,Placed,16.64
+890,Placed,12.55
+891,Placed,12.9
+892,Placed,17.8
+893,Placed,14.36
+894,Placed,19.0
+895,Placed,15.9
+896,Placed,16.93
+897,Placed,16.22
+898,Placed,18.23
+899,Placed,15.39
+900,Placed,15.57
+901,Not Placed,0.0
+902,Not Placed,0.0
+903,Placed,13.1
+904,Not Placed,0.0
+905,Placed,19.34
+906,Placed,9.46
+907,Placed,13.51
+908,Placed,10.44
+909,Placed,18.55
+910,Placed,19.37
+911,Placed,19.26
+912,Placed,19.08
+913,Not Placed,0.0
+914,Not Placed,0.0
+915,Not Placed,0.0
+916,Placed,20.0
+917,Not Placed,0.0
+918,Placed,11.52
+919,Placed,14.48
+920,Placed,12.5
+921,Placed,14.54
+922,Placed,14.68
+923,Placed,13.15
+924,Placed,13.95
+925,Placed,12.07
+926,Not Placed,0.0
+927,Placed,19.69
+928,Not Placed,0.0
+929,Placed,14.22
+930,Placed,20.0
+931,Placed,20.0
+932,Placed,15.43
+933,Placed,18.65
+934,Placed,20.0
+935,Placed,18.58
+936,Placed,14.78
+937,Placed,20.0
+938,Placed,18.25
+939,Placed,15.61
+940,Placed,16.96
+941,Placed,11.48
+942,Not Placed,0.0
+943,Placed,18.35
+944,Placed,15.21
+945,Not Placed,0.0
+946,Placed,11.2
+947,Placed,14.97
+948,Placed,12.32
+949,Not Placed,0.0
+950,Placed,20.0
+951,Not Placed,0.0
+952,Placed,16.32
+953,Placed,18.92
+954,Placed,15.64
+955,Placed,14.62
+956,Placed,13.73
+957,Placed,13.56
+958,Placed,15.91
+959,Placed,18.03
+960,Placed,13.5
+961,Placed,14.23
+962,Placed,8.86
+963,Placed,16.3
+964,Placed,10.14
+965,Placed,17.6
+966,Placed,14.98
+967,Placed,16.21
+968,Placed,16.01
+969,Placed,16.99
+970,Placed,15.31
+971,Placed,12.05
+972,Not Placed,0.0
+973,Placed,20.0
+974,Placed,15.09
+975,Placed,17.95
+976,Not Placed,0.0
+977,Placed,20.0
+978,Placed,14.94
+979,Placed,18.36
+980,Placed,15.08
+981,Placed,10.24
+982,Placed,20.0
+983,Not Placed,0.0
+984,Placed,11.55
+985,Placed,16.58
+986,Placed,13.79
+987,Placed,16.75
+988,Placed,20.0
+989,Placed,12.86
+990,Placed,15.16
+991,Placed,15.83
+992,Placed,13.38
+993,Not Placed,0.0
+994,Placed,20.0
+995,Placed,14.96
+996,Placed,10.41
+997,Placed,13.14
+998,Placed,13.9
+999,Placed,15.04
+1000,Placed,17.59
+1001,Placed,17.88
+1002,Placed,20.0
+1003,Not Placed,0.0
+1004,Placed,8.79
+1005,Placed,20.0
+1006,Placed,13.9
+1007,Placed,12.82
+1008,Placed,13.35
+1009,Placed,17.06
+1010,Placed,13.42
+1011,Placed,18.34
+1012,Placed,18.45
+1013,Placed,18.58
+1014,Placed,19.87
+1015,Placed,20.0
+1016,Not Placed,0.0
+1017,Placed,12.84
+1018,Placed,16.75
+1019,Placed,18.79
+1020,Placed,15.37
+1021,Placed,17.5
+1022,Placed,19.27
+1023,Placed,15.84
+1024,Placed,19.56
+1025,Placed,20.0
+1026,Placed,18.76
+1027,Placed,20.0
+1028,Placed,19.32
+1029,Not Placed,0.0
+1030,Placed,14.62
+1031,Placed,12.81
+1032,Placed,16.79
+1033,Placed,11.31
+1034,Placed,7.85
+1035,Placed,9.48
+1036,Placed,14.56
+1037,Not Placed,0.0
+1038,Placed,17.64
+1039,Placed,15.12
+1040,Not Placed,0.0
+1041,Placed,19.41
+1042,Placed,18.5
+1043,Placed,10.43
+1044,Not Placed,0.0
+1045,Placed,15.33
+1046,Placed,16.19
+1047,Placed,18.37
+1048,Placed,18.32
+1049,Not Placed,0.0
+1050,Placed,14.98
+1051,Placed,15.51
+1052,Not Placed,0.0
+1053,Placed,15.78
+1054,Placed,15.15
+1055,Not Placed,0.0
+1056,Placed,13.4
+1057,Placed,15.3
+1058,Placed,18.3
+1059,Placed,20.0
+1060,Placed,18.2
+1061,Placed,17.17
+1062,Placed,9.77
+1063,Placed,11.54
+1064,Placed,17.02
+1065,Placed,19.59
+1066,Placed,11.06
+1067,Not Placed,0.0
+1068,Placed,11.06
+1069,Not Placed,0.0
+1070,Placed,14.02
+1071,Not Placed,0.0
+1072,Placed,19.37
+1073,Placed,20.0
+1074,Placed,17.3
+1075,Placed,10.37
+1076,Placed,20.0
+1077,Placed,9.4
+1078,Placed,15.46
+1079,Placed,9.86
+1080,Placed,9.98
+1081,Not Placed,0.0
+1082,Not Placed,0.0
+1083,Placed,17.89
+1084,Placed,16.83
+1085,Placed,14.77
+1086,Placed,20.0
+1087,Placed,13.64
+1088,Placed,20.0
+1089,Not Placed,0.0
+1090,Placed,19.46
+1091,Placed,11.7
+1092,Placed,11.63
+1093,Placed,18.66
+1094,Placed,17.1
+1095,Placed,16.63
+1096,Placed,10.54
+1097,Placed,17.81
+1098,Placed,20.0
+1099,Placed,17.72
+1100,Placed,18.55
+1101,Placed,20.0
+1102,Placed,15.78
+1103,Placed,20.0
+1104,Placed,18.6
+1105,Placed,14.96
+1106,Placed,14.74
+1107,Placed,20.0
+1108,Placed,20.0
+1109,Not Placed,0.0
+1110,Not Placed,0.0
+1111,Placed,20.0
+1112,Not Placed,0.0
+1113,Placed,17.53
+1114,Not Placed,0.0
+1115,Placed,16.74
+1116,Placed,19.15
+1117,Not Placed,0.0
+1118,Placed,17.0
+1119,Placed,15.32
+1120,Placed,16.75
+1121,Placed,19.08
+1122,Placed,15.09
+1123,Placed,20.0
+1124,Placed,17.59
+1125,Placed,12.1
+1126,Placed,16.41
+1127,Placed,20.0
+1128,Placed,15.14
+1129,Placed,12.69
+1130,Placed,10.79
+1131,Not Placed,0.0
+1132,Not Placed,0.0
+1133,Placed,14.96
+1134,Placed,19.98
+1135,Placed,16.16
+1136,Placed,12.58
+1137,Placed,19.94
+1138,Placed,16.65
+1139,Not Placed,0.0
+1140,Placed,17.11
+1141,Placed,11.68
+1142,Not Placed,0.0
+1143,Placed,19.05
+1144,Placed,14.43
+1145,Placed,16.45
+1146,Placed,19.82
+1147,Placed,13.92
+1148,Placed,20.0
+1149,Not Placed,0.0
+1150,Placed,15.29
+1151,Placed,12.59
+1152,Not Placed,0.0
+1153,Placed,18.66
+1154,Placed,16.37
+1155,Placed,18.0
+1156,Placed,13.9
+1157,Placed,18.73
+1158,Placed,15.49
+1159,Placed,19.16
+1160,Placed,20.0
+1161,Placed,15.62
+1162,Placed,14.33
+1163,Placed,15.31
+1164,Placed,16.84
+1165,Placed,14.99
+1166,Placed,16.83
+1167,Placed,17.19
+1168,Placed,16.76
+1169,Placed,16.05
+1170,Placed,12.73
+1171,Placed,14.97
+1172,Not Placed,0.0
+1173,Placed,13.01
+1174,Placed,16.97
+1175,Placed,14.13
+1176,Not Placed,0.0
+1177,Not Placed,0.0
+1178,Placed,17.4
+1179,Placed,12.99
+1180,Placed,20.0
+1181,Placed,17.39
+1182,Placed,17.58
+1183,Placed,12.23
+1184,Placed,15.41
+1185,Placed,12.81
+1186,Placed,20.0
+1187,Not Placed,0.0
+1188,Placed,20.0
+1189,Placed,13.94
+1190,Placed,16.47
+1191,Placed,10.18
+1192,Placed,19.14
+1193,Placed,12.24
+1194,Placed,20.0
+1195,Placed,16.56
+1196,Placed,20.0
+1197,Placed,20.0
+1198,Placed,13.49
+1199,Placed,14.35
+1200,Placed,17.38
+1201,Not Placed,0.0
+1202,Not Placed,0.0
+1203,Placed,20.0
+1204,Not Placed,0.0
+1205,Placed,20.0
+1206,Placed,17.79
+1207,Placed,17.29
+1208,Placed,5.26
+1209,Placed,9.26
+1210,Placed,18.49
+1211,Placed,15.47
+1212,Placed,12.07
+1213,Placed,18.24
+1214,Placed,9.05
+1215,Placed,14.78
+1216,Placed,15.37
+1217,Placed,17.42
+1218,Not Placed,0.0
+1219,Placed,19.67
+1220,Placed,18.39
+1221,Placed,15.64
+1222,Placed,13.86
+1223,Placed,17.53
+1224,Placed,12.04
+1225,Placed,14.49
+1226,Placed,6.85
+1227,Placed,15.79
+1228,Placed,20.0
+1229,Placed,17.31
+1230,Not Placed,0.0
+1231,Placed,14.08
+1232,Placed,20.0
+1233,Not Placed,0.0
+1234,Placed,19.31
+1235,Placed,18.89
+1236,Placed,12.11
+1237,Placed,11.92
+1238,Not Placed,0.0
+1239,Placed,12.58
+1240,Placed,14.18
+1241,Placed,20.0
+1242,Placed,14.65
+1243,Placed,19.79
+1244,Not Placed,0.0
+1245,Placed,20.0
+1246,Placed,12.78
+1247,Placed,13.59
+1248,Placed,14.9
+1249,Placed,14.42
+1250,Placed,20.0
+1251,Placed,14.25
+1252,Placed,11.06
+1253,Placed,16.69
+1254,Not Placed,0.0
+1255,Placed,18.86
+1256,Not Placed,0.0
+1257,Placed,15.25
+1258,Placed,9.14
+1259,Placed,20.0
+1260,Placed,17.4
+1261,Placed,20.0
+1262,Not Placed,0.0
+1263,Not Placed,0.0
+1264,Placed,16.73
+1265,Placed,20.0
+1266,Placed,20.0
+1267,Placed,16.99
+1268,Placed,14.41
+1269,Placed,12.67
+1270,Placed,9.77
+1271,Placed,16.22
+1272,Placed,18.61
+1273,Placed,18.5
+1274,Placed,18.62
+1275,Placed,15.26
+1276,Placed,15.78
+1277,Placed,17.59
+1278,Placed,10.17
+1279,Placed,16.31
+1280,Placed,16.34
+1281,Placed,14.1
+1282,Placed,13.93
+1283,Placed,20.0
+1284,Not Placed,0.0
+1285,Placed,16.67
+1286,Placed,10.36
+1287,Placed,15.4
+1288,Placed,11.89
+1289,Placed,19.27
+1290,Not Placed,0.0
+1291,Not Placed,0.0
+1292,Placed,16.42
+1293,Placed,11.9
+1294,Placed,14.11
+1295,Placed,11.2
+1296,Placed,20.0
+1297,Placed,18.95
+1298,Placed,17.33
+1299,Placed,14.35
+1300,Placed,12.09
+1301,Not Placed,0.0
+1302,Placed,15.16
+1303,Placed,18.32
+1304,Placed,14.45
+1305,Placed,16.1
+1306,Placed,16.8
+1307,Placed,15.72
+1308,Placed,15.39
+1309,Not Placed,0.0
+1310,Placed,16.8
+1311,Placed,20.0
+1312,Placed,15.07
+1313,Placed,11.71
+1314,Placed,17.79
+1315,Placed,15.01
+1316,Not Placed,0.0
+1317,Placed,18.72
+1318,Placed,18.61
+1319,Not Placed,0.0
+1320,Placed,17.55
+1321,Placed,16.4
+1322,Placed,18.98
+1323,Placed,17.48
+1324,Placed,18.29
+1325,Placed,20.0
+1326,Placed,14.32
+1327,Placed,20.0
+1328,Placed,8.89
+1329,Placed,15.99
+1330,Placed,18.84
+1331,Placed,18.27
+1332,Placed,17.57
+1333,Placed,16.02
+1334,Placed,14.74
+1335,Placed,20.0
+1336,Placed,20.0
+1337,Placed,16.86
+1338,Placed,15.53
+1339,Placed,17.29
+1340,Placed,16.09
+1341,Placed,13.02
+1342,Placed,15.9
+1343,Placed,17.94
+1344,Not Placed,0.0
+1345,Placed,17.26
+1346,Placed,15.88
+1347,Placed,16.09
+1348,Placed,19.91
+1349,Placed,20.0
+1350,Placed,14.25
+1351,Placed,20.0
+1352,Placed,20.0
+1353,Placed,20.0
+1354,Not Placed,0.0
+1355,Placed,12.39
+1356,Placed,17.28
+1357,Placed,20.0
+1358,Placed,15.1
+1359,Placed,19.5
+1360,Placed,16.43
+1361,Placed,16.96
+1362,Placed,15.09
+1363,Placed,16.65
+1364,Placed,10.29
+1365,Not Placed,0.0
+1366,Placed,9.52
+1367,Placed,13.12
+1368,Placed,19.62
+1369,Placed,18.48
+1370,Placed,14.37
+1371,Not Placed,0.0
+1372,Placed,16.56
+1373,Not Placed,0.0
+1374,Placed,15.03
+1375,Placed,20.0
+1376,Placed,18.18
+1377,Placed,14.2
+1378,Placed,13.17
+1379,Placed,19.75
+1380,Placed,13.95
+1381,Placed,16.81
+1382,Placed,18.45
+1383,Placed,18.87
+1384,Not Placed,0.0
+1385,Placed,20.0
+1386,Placed,13.14
+1387,Placed,17.45
+1388,Placed,15.77
+1389,Placed,20.0
+1390,Placed,16.55
+1391,Placed,19.25
+1392,Placed,13.01
+1393,Placed,16.63
+1394,Placed,15.14
+1395,Placed,16.78
+1396,Placed,16.92
+1397,Placed,17.32
+1398,Placed,15.86
+1399,Placed,14.95
+1400,Placed,19.31
+1401,Not Placed,0.0
+1402,Placed,19.09
+1403,Placed,17.24
+1404,Placed,15.6
+1405,Placed,12.9
+1406,Placed,18.41
+1407,Not Placed,0.0
+1408,Placed,14.61
+1409,Placed,16.35
+1410,Placed,19.96
+1411,Placed,13.3
+1412,Placed,8.01
+1413,Placed,19.17
+1414,Placed,12.34
+1415,Not Placed,0.0
+1416,Placed,18.98
+1417,Not Placed,0.0
+1418,Placed,13.65
+1419,Placed,16.77
+1420,Placed,14.77
+1421,Placed,14.23
+1422,Placed,14.62
+1423,Placed,14.76
+1424,Placed,20.0
+1425,Placed,19.45
+1426,Placed,14.74
+1427,Placed,11.85
+1428,Placed,14.72
+1429,Not Placed,0.0
+1430,Placed,12.87
+1431,Placed,17.72
+1432,Placed,16.02
+1433,Not Placed,0.0
+1434,Placed,13.22
+1435,Placed,13.8
+1436,Placed,14.41
+1437,Not Placed,0.0
+1438,Placed,17.42
+1439,Placed,19.67
+1440,Placed,13.79
+1441,Placed,17.61
+1442,Placed,16.78
+1443,Not Placed,0.0
+1444,Placed,14.28
+1445,Not Placed,0.0
+1446,Placed,15.97
+1447,Placed,20.0
+1448,Placed,14.46
+1449,Not Placed,0.0
+1450,Placed,14.27
+1451,Placed,17.23
+1452,Placed,20.0
+1453,Placed,10.88
+1454,Placed,18.0
+1455,Placed,17.96
+1456,Not Placed,0.0
+1457,Placed,16.37
+1458,Not Placed,0.0
+1459,Placed,16.88
+1460,Placed,20.0
+1461,Placed,17.01
+1462,Placed,13.27
+1463,Placed,16.26
+1464,Placed,16.47
+1465,Placed,16.77
+1466,Placed,17.69
+1467,Placed,12.29
+1468,Not Placed,0.0
+1469,Placed,16.81
+1470,Not Placed,0.0
+1471,Placed,18.12
+1472,Placed,12.81
+1473,Placed,12.38
+1474,Placed,18.81
+1475,Placed,14.86
+1476,Placed,17.53
+1477,Not Placed,0.0
+1478,Not Placed,0.0
+1479,Placed,10.82
+1480,Placed,20.0
+1481,Placed,17.72
+1482,Placed,20.0
+1483,Placed,11.74
+1484,Placed,20.0
+1485,Placed,15.53
+1486,Placed,11.49
+1487,Placed,17.37
+1488,Placed,16.0
+1489,Placed,18.84
+1490,Placed,15.83
+1491,Placed,14.11
+1492,Placed,17.99
+1493,Placed,10.48
+1494,Not Placed,0.0
+1495,Placed,18.4
+1496,Placed,17.94
+1497,Placed,15.59
+1498,Placed,10.43
+1499,Placed,14.25
+1500,Placed,15.31
+1501,Placed,15.91
+1502,Placed,20.0
+1503,Placed,13.61
+1504,Placed,20.0
+1505,Placed,16.48
+1506,Placed,20.0
+1507,Placed,16.3
+1508,Placed,16.5
+1509,Placed,18.55
+1510,Placed,14.95
+1511,Placed,12.93
+1512,Placed,10.23
+1513,Placed,15.14
+1514,Placed,16.69
+1515,Placed,15.86
+1516,Placed,20.0
+1517,Placed,17.81
+1518,Placed,16.21
+1519,Placed,19.27
+1520,Placed,20.0
+1521,Placed,20.0
+1522,Placed,13.09
+1523,Not Placed,0.0
+1524,Not Placed,0.0
+1525,Placed,15.71
+1526,Placed,14.48
+1527,Placed,17.03
+1528,Placed,20.0
+1529,Placed,17.56
+1530,Placed,8.31
+1531,Placed,14.47
+1532,Placed,15.85
+1533,Placed,18.1
+1534,Placed,15.13
+1535,Placed,17.35
+1536,Placed,15.05
+1537,Placed,17.46
+1538,Placed,15.2
+1539,Placed,15.42
+1540,Placed,9.9
+1541,Not Placed,0.0
+1542,Placed,14.92
+1543,Placed,18.61
+1544,Placed,20.0
+1545,Not Placed,0.0
+1546,Placed,19.62
+1547,Placed,18.46
+1548,Not Placed,0.0
+1549,Placed,20.0
+1550,Not Placed,0.0
+1551,Placed,15.16
+1552,Placed,16.71
+1553,Placed,16.04
+1554,Placed,16.33
+1555,Placed,19.05
+1556,Placed,15.81
+1557,Placed,16.46
+1558,Placed,13.31
+1559,Placed,19.27
+1560,Not Placed,0.0
+1561,Placed,20.0
+1562,Placed,14.79
+1563,Placed,15.14
+1564,Placed,13.99
+1565,Placed,20.0
+1566,Placed,13.81
+1567,Placed,13.7
+1568,Placed,9.71
+1569,Placed,12.9
+1570,Placed,19.65
+1571,Not Placed,0.0
+1572,Placed,18.3
+1573,Placed,16.78
+1574,Placed,17.31
+1575,Placed,15.76
+1576,Not Placed,0.0
+1577,Placed,14.15
+1578,Placed,19.11
+1579,Placed,15.63
+1580,Not Placed,0.0
+1581,Placed,10.31
+1582,Placed,14.67
+1583,Placed,9.45
+1584,Placed,8.94
+1585,Not Placed,0.0
+1586,Placed,9.22
+1587,Placed,15.2
+1588,Placed,14.81
+1589,Placed,19.97
+1590,Placed,17.94
+1591,Placed,18.7
+1592,Placed,13.37
+1593,Placed,17.3
+1594,Placed,17.19
+1595,Placed,19.68
+1596,Not Placed,0.0
+1597,Placed,20.0
+1598,Placed,20.0
+1599,Placed,17.42
+1600,Placed,15.44
+1601,Not Placed,0.0
+1602,Placed,11.87
+1603,Not Placed,0.0
+1604,Placed,18.87
+1605,Placed,20.0
+1606,Placed,11.54
+1607,Placed,20.0
+1608,Placed,16.41
+1609,Placed,12.57
+1610,Placed,20.0
+1611,Placed,15.24
+1612,Placed,10.65
+1613,Placed,12.78
+1614,Placed,20.0
+1615,Placed,18.06
+1616,Placed,15.95
+1617,Placed,16.24
+1618,Not Placed,0.0
+1619,Placed,16.21
+1620,Placed,15.29
+1621,Placed,20.0
+1622,Placed,14.88
+1623,Placed,13.4
+1624,Placed,18.36
+1625,Placed,15.07
+1626,Placed,18.62
+1627,Placed,17.74
+1628,Not Placed,0.0
+1629,Not Placed,0.0
+1630,Placed,17.94
+1631,Placed,12.23
+1632,Placed,20.0
+1633,Placed,15.58
+1634,Placed,15.81
+1635,Placed,15.25
+1636,Placed,20.0
+1637,Placed,18.9
+1638,Placed,19.69
+1639,Placed,20.0
+1640,Placed,11.88
+1641,Not Placed,0.0
+1642,Placed,14.16
+1643,Placed,13.1
+1644,Placed,19.82
+1645,Placed,18.48
+1646,Placed,12.91
+1647,Placed,13.61
+1648,Placed,15.21
+1649,Placed,14.86
+1650,Placed,15.94
+1651,Placed,19.4
+1652,Placed,20.0
+1653,Placed,14.84
+1654,Placed,20.0
+1655,Placed,18.1
+1656,Placed,18.54
+1657,Placed,19.29
+1658,Placed,15.96
+1659,Placed,17.69
+1660,Placed,15.12
+1661,Placed,8.72
+1662,Placed,17.14
+1663,Placed,19.56
+1664,Placed,18.89
+1665,Placed,15.87
+1666,Placed,17.93
+1667,Placed,20.0
+1668,Placed,15.53
+1669,Placed,17.74
+1670,Placed,16.33
+1671,Placed,14.64
+1672,Placed,15.96
+1673,Placed,13.42
+1674,Placed,17.65
+1675,Not Placed,0.0
+1676,Not Placed,0.0
+1677,Placed,13.03
+1678,Placed,20.0
+1679,Placed,17.64
+1680,Not Placed,0.0
+1681,Placed,18.23
+1682,Placed,18.29
+1683,Placed,14.59
+1684,Placed,15.3
+1685,Placed,11.57
+1686,Not Placed,0.0
+1687,Placed,7.27
+1688,Placed,14.39
+1689,Placed,14.44
+1690,Placed,18.96
+1691,Not Placed,0.0
+1692,Placed,17.88
+1693,Placed,16.17
+1694,Placed,15.86
+1695,Placed,18.04
+1696,Placed,12.61
+1697,Placed,12.75
+1698,Not Placed,0.0
+1699,Placed,20.0
+1700,Placed,19.51
+1701,Placed,16.01
+1702,Placed,18.84
+1703,Placed,11.7
+1704,Placed,20.0
+1705,Not Placed,0.0
+1706,Placed,17.0
+1707,Not Placed,0.0
+1708,Placed,19.72
+1709,Placed,17.62
+1710,Placed,17.1
+1711,Placed,17.2
+1712,Placed,15.01
+1713,Placed,14.55
+1714,Placed,18.92
+1715,Placed,19.45
+1716,Placed,7.05
+1717,Placed,19.94
+1718,Placed,15.08
+1719,Placed,19.31
+1720,Not Placed,0.0
+1721,Placed,13.82
+1722,Placed,16.99
+1723,Placed,20.0
+1724,Placed,10.02
+1725,Placed,15.53
+1726,Placed,13.12
+1727,Placed,19.22
+1728,Placed,15.0
+1729,Placed,20.0
+1730,Placed,18.82
+1731,Placed,8.71
+1732,Placed,20.0
+1733,Placed,17.28
+1734,Placed,15.86
+1735,Placed,19.71
+1736,Placed,16.66
+1737,Placed,14.04
+1738,Placed,12.54
+1739,Placed,17.41
+1740,Placed,13.68
+1741,Placed,18.42
+1742,Placed,12.84
+1743,Placed,14.1
+1744,Placed,15.28
+1745,Placed,15.88
+1746,Placed,18.67
+1747,Placed,19.73
+1748,Placed,20.0
+1749,Placed,15.02
+1750,Placed,15.95
+1751,Placed,14.55
+1752,Placed,20.0
+1753,Placed,9.4
+1754,Placed,18.96
+1755,Placed,20.0
+1756,Placed,8.2
+1757,Not Placed,0.0
+1758,Placed,13.81
+1759,Placed,18.37
+1760,Placed,18.55
+1761,Placed,11.41
+1762,Placed,17.71
+1763,Placed,16.55
+1764,Placed,20.0
+1765,Placed,17.93
+1766,Placed,20.0
+1767,Placed,12.01
+1768,Placed,17.97
+1769,Placed,20.0
+1770,Placed,12.91
+1771,Placed,19.22
+1772,Placed,15.43
+1773,Placed,12.87
+1774,Placed,13.63
+1775,Placed,20.0
+1776,Placed,20.0
+1777,Placed,13.74
+1778,Placed,15.86
+1779,Placed,12.87
+1780,Placed,11.97
+1781,Placed,12.04
+1782,Not Placed,0.0
+1783,Placed,15.93
+1784,Not Placed,0.0
+1785,Not Placed,0.0
+1786,Placed,17.0
+1787,Placed,15.91
+1788,Placed,17.11
+1789,Placed,20.0
+1790,Not Placed,0.0
+1791,Placed,16.27
+1792,Placed,17.1
+1793,Placed,16.78
+1794,Placed,15.03
+1795,Placed,19.38
+1796,Placed,20.0
+1797,Placed,18.5
+1798,Placed,15.61
+1799,Placed,17.56
+1800,Placed,14.38
+1801,Placed,17.92
+1802,Placed,17.25
+1803,Placed,11.3
+1804,Placed,11.62
+1805,Placed,20.0
+1806,Placed,14.27
+1807,Placed,15.93
+1808,Not Placed,0.0
+1809,Placed,11.99
+1810,Not Placed,0.0
+1811,Placed,10.44
+1812,Placed,20.0
+1813,Placed,11.02
+1814,Placed,18.13
+1815,Placed,13.17
+1816,Placed,17.8
+1817,Placed,19.56
+1818,Placed,20.0
+1819,Placed,10.58
+1820,Placed,17.7
+1821,Not Placed,0.0
+1822,Placed,10.37
+1823,Placed,17.27
+1824,Placed,18.26
+1825,Placed,18.57
+1826,Placed,15.59
+1827,Placed,13.11
+1828,Not Placed,0.0
+1829,Placed,18.35
+1830,Placed,10.94
+1831,Placed,20.0
+1832,Placed,19.25
+1833,Placed,9.83
+1834,Placed,14.41
+1835,Placed,10.07
+1836,Placed,20.0
+1837,Placed,15.25
+1838,Placed,17.05
+1839,Placed,14.14
+1840,Placed,18.99
+1841,Placed,17.6
+1842,Placed,16.35
+1843,Placed,15.61
+1844,Placed,16.19
+1845,Placed,17.76
+1846,Placed,17.38
+1847,Placed,16.84
+1848,Placed,20.0
+1849,Not Placed,0.0
+1850,Placed,14.28
+1851,Not Placed,0.0
+1852,Placed,14.69
+1853,Not Placed,0.0
+1854,Placed,10.86
+1855,Placed,12.87
+1856,Placed,16.87
+1857,Placed,16.12
+1858,Placed,17.23
+1859,Placed,16.5
+1860,Not Placed,0.0
+1861,Placed,15.47
+1862,Placed,17.77
+1863,Placed,16.27
+1864,Placed,17.69
+1865,Not Placed,0.0
+1866,Placed,18.02
+1867,Placed,9.49
+1868,Placed,18.31
+1869,Placed,18.64
+1870,Placed,12.63
+1871,Placed,13.74
+1872,Placed,19.52
+1873,Placed,18.15
+1874,Placed,13.69
+1875,Placed,20.0
+1876,Placed,14.85
+1877,Placed,15.93
+1878,Placed,20.0
+1879,Not Placed,0.0
+1880,Placed,17.56
+1881,Placed,17.03
+1882,Placed,19.34
+1883,Placed,16.36
+1884,Placed,13.96
+1885,Placed,18.24
+1886,Placed,16.56
+1887,Not Placed,0.0
+1888,Placed,9.93
+1889,Placed,17.71
+1890,Placed,17.57
+1891,Placed,20.0
+1892,Placed,13.97
+1893,Placed,12.13
+1894,Placed,19.75
+1895,Placed,20.0
+1896,Placed,16.01
+1897,Placed,19.98
+1898,Placed,20.0
+1899,Placed,20.0
+1900,Placed,18.1
+1901,Placed,20.0
+1902,Placed,20.0
+1903,Placed,20.0
+1904,Placed,20.0
+1905,Placed,20.0
+1906,Placed,20.0
+1907,Placed,14.96
+1908,Placed,19.97
+1909,Placed,18.47
+1910,Placed,13.01
+1911,Placed,20.0
+1912,Placed,20.0
+1913,Placed,17.14
+1914,Placed,20.0
+1915,Placed,16.6
+1916,Placed,8.22
+1917,Placed,16.94
+1918,Placed,18.04
+1919,Placed,14.56
+1920,Not Placed,0.0
+1921,Placed,20.0
+1922,Placed,15.73
+1923,Placed,20.0
+1924,Placed,16.07
+1925,Not Placed,0.0
+1926,Placed,19.85
+1927,Placed,16.59
+1928,Placed,13.21
+1929,Not Placed,0.0
+1930,Placed,14.29
+1931,Placed,20.0
+1932,Placed,16.95
+1933,Placed,20.0
+1934,Placed,18.04
+1935,Placed,18.24
+1936,Not Placed,0.0
+1937,Placed,18.22
+1938,Placed,14.56
+1939,Placed,15.59
+1940,Placed,15.11
+1941,Placed,20.0
+1942,Placed,19.36
+1943,Not Placed,0.0
+1944,Placed,16.04
+1945,Placed,12.71
+1946,Placed,16.31
+1947,Placed,10.61
+1948,Placed,15.67
+1949,Placed,18.07
+1950,Placed,20.0
+1951,Not Placed,0.0
+1952,Placed,13.7
+1953,Placed,17.97
+1954,Placed,19.23
+1955,Placed,20.0
+1956,Placed,11.39
+1957,Placed,14.75
+1958,Placed,8.39
+1959,Placed,15.36
+1960,Placed,20.0
+1961,Placed,14.63
+1962,Placed,20.0
+1963,Placed,10.95
+1964,Placed,18.95
+1965,Placed,17.25
+1966,Placed,15.25
+1967,Not Placed,0.0
+1968,Placed,19.23
+1969,Placed,16.35
+1970,Placed,20.0
+1971,Placed,19.55
+1972,Placed,15.97
+1973,Not Placed,0.0
+1974,Placed,15.03
+1975,Placed,15.12
+1976,Placed,5.42
+1977,Placed,17.12
+1978,Placed,13.37
+1979,Placed,16.68
+1980,Placed,11.84
+1981,Placed,19.63
+1982,Placed,14.96
+1983,Placed,20.0
+1984,Placed,19.98
+1985,Placed,10.67
+1986,Placed,15.91
+1987,Placed,18.03
+1988,Placed,18.02
+1989,Placed,14.56
+1990,Placed,19.68
+1991,Placed,20.0
+1992,Placed,20.0
+1993,Placed,16.21
+1994,Placed,17.49
+1995,Placed,13.06
+1996,Not Placed,0.0
+1997,Placed,14.14
+1998,Placed,20.0
+1999,Placed,10.64
+2000,Placed,14.0
+2001,Placed,14.03
+2002,Placed,19.93
+2003,Placed,20.0
+2004,Not Placed,0.0
+2005,Placed,20.0
+2006,Placed,20.0
+2007,Placed,15.23
+2008,Not Placed,0.0
+2009,Placed,16.48
+2010,Placed,14.75
+2011,Placed,12.82
+2012,Placed,16.98
+2013,Placed,14.11
+2014,Placed,19.7
+2015,Placed,20.0
+2016,Placed,14.9
+2017,Placed,20.0
+2018,Placed,17.08
+2019,Placed,13.92
+2020,Placed,16.84
+2021,Placed,18.78
+2022,Placed,19.57
+2023,Placed,13.04
+2024,Not Placed,0.0
+2025,Not Placed,0.0
+2026,Placed,15.65
+2027,Placed,12.27
+2028,Placed,14.09
+2029,Placed,13.74
+2030,Not Placed,0.0
+2031,Placed,18.45
+2032,Placed,13.76
+2033,Placed,16.28
+2034,Not Placed,0.0
+2035,Not Placed,0.0
+2036,Placed,18.37
+2037,Placed,20.0
+2038,Placed,15.3
+2039,Placed,19.32
+2040,Not Placed,0.0
+2041,Not Placed,0.0
+2042,Placed,14.76
+2043,Placed,17.13
+2044,Placed,20.0
+2045,Placed,18.7
+2046,Not Placed,0.0
+2047,Placed,19.04
+2048,Placed,18.16
+2049,Placed,15.24
+2050,Placed,15.69
+2051,Placed,17.11
+2052,Placed,15.6
+2053,Placed,20.0
+2054,Placed,20.0
+2055,Placed,17.32
+2056,Placed,12.85
+2057,Placed,15.82
+2058,Placed,17.12
+2059,Placed,11.7
+2060,Placed,19.67
+2061,Placed,13.21
+2062,Placed,18.51
+2063,Placed,10.57
+2064,Placed,17.97
+2065,Placed,19.13
+2066,Placed,15.44
+2067,Placed,20.0
+2068,Placed,15.66
+2069,Placed,17.75
+2070,Placed,20.0
+2071,Not Placed,0.0
+2072,Placed,13.1
+2073,Placed,13.43
+2074,Not Placed,0.0
+2075,Placed,8.56
+2076,Not Placed,0.0
+2077,Placed,13.03
+2078,Placed,11.83
+2079,Not Placed,0.0
+2080,Placed,17.71
+2081,Placed,16.51
+2082,Placed,12.4
+2083,Placed,17.8
+2084,Not Placed,0.0
+2085,Not Placed,0.0
+2086,Placed,17.84
+2087,Placed,18.48
+2088,Placed,17.69
+2089,Placed,15.85
+2090,Placed,14.51
+2091,Placed,14.94
+2092,Placed,20.0
+2093,Placed,10.35
+2094,Placed,20.0
+2095,Placed,18.42
+2096,Placed,14.87
+2097,Placed,14.18
+2098,Placed,17.1
+2099,Not Placed,0.0
+2100,Placed,18.61
+2101,Placed,10.56
+2102,Placed,18.75
+2103,Not Placed,0.0
+2104,Placed,12.61
+2105,Placed,17.79
+2106,Placed,17.79
+2107,Placed,16.27
+2108,Placed,16.4
+2109,Placed,15.07
+2110,Not Placed,0.0
+2111,Placed,15.53
+2112,Placed,20.0
+2113,Placed,20.0
+2114,Placed,18.12
+2115,Placed,11.9
+2116,Placed,16.28
+2117,Placed,19.52
+2118,Placed,18.6
+2119,Not Placed,0.0
+2120,Placed,17.4
+2121,Placed,17.11
+2122,Placed,16.27
+2123,Placed,16.13
+2124,Not Placed,0.0
+2125,Placed,19.38
+2126,Placed,18.07
+2127,Placed,15.68
+2128,Placed,12.61
+2129,Placed,18.84
+2130,Placed,18.64
+2131,Placed,12.4
+2132,Placed,18.77
+2133,Placed,18.01
+2134,Placed,17.67
+2135,Placed,20.0
+2136,Not Placed,0.0
+2137,Placed,17.76
+2138,Placed,20.0
+2139,Placed,17.48
+2140,Placed,15.11
+2141,Placed,20.0
+2142,Placed,15.33
+2143,Placed,14.51
+2144,Placed,15.11
+2145,Not Placed,0.0
+2146,Placed,5.85
+2147,Placed,18.24
+2148,Not Placed,0.0
+2149,Placed,11.56
+2150,Placed,20.0
+2151,Placed,14.32
+2152,Placed,20.0
+2153,Not Placed,0.0
+2154,Placed,19.18
+2155,Placed,15.71
+2156,Placed,18.2
+2157,Placed,14.5
+2158,Placed,19.52
+2159,Placed,15.13
+2160,Placed,19.69
+2161,Not Placed,0.0
+2162,Placed,16.49
+2163,Placed,13.89
+2164,Placed,18.39
+2165,Placed,13.32
+2166,Placed,17.55
+2167,Placed,14.76
+2168,Not Placed,0.0
+2169,Placed,14.86
+2170,Placed,18.73
+2171,Placed,10.27
+2172,Placed,20.0
+2173,Placed,16.86
+2174,Placed,15.84
+2175,Placed,14.81
+2176,Placed,17.75
+2177,Placed,19.68
+2178,Not Placed,0.0
+2179,Placed,12.64
+2180,Placed,14.03
+2181,Not Placed,0.0
+2182,Not Placed,0.0
+2183,Placed,16.65
+2184,Placed,15.25
+2185,Placed,14.41
+2186,Placed,15.87
+2187,Placed,15.22
+2188,Placed,14.06
+2189,Placed,20.0
+2190,Placed,16.16
+2191,Not Placed,0.0
+2192,Placed,15.01
+2193,Not Placed,0.0
+2194,Not Placed,0.0
+2195,Placed,19.42
+2196,Placed,18.68
+2197,Placed,13.87
+2198,Not Placed,0.0
+2199,Placed,14.09
+2200,Placed,20.0
+2201,Not Placed,0.0
+2202,Placed,15.47
+2203,Not Placed,0.0
+2204,Placed,17.71
+2205,Placed,16.65
+2206,Placed,19.45
+2207,Placed,14.23
+2208,Placed,20.0
+2209,Placed,17.51
+2210,Placed,18.64
+2211,Placed,18.84
+2212,Not Placed,0.0
+2213,Placed,14.17
+2214,Not Placed,0.0
+2215,Placed,18.72
+2216,Not Placed,0.0
+2217,Placed,10.38
+2218,Placed,16.99
+2219,Placed,16.21
+2220,Not Placed,0.0
+2221,Placed,18.08
+2222,Placed,10.57
+2223,Not Placed,0.0
+2224,Placed,18.36
+2225,Placed,17.95
+2226,Placed,18.35
+2227,Not Placed,0.0
+2228,Placed,17.99
+2229,Placed,10.39
+2230,Placed,19.47
+2231,Placed,13.0
+2232,Placed,18.75
+2233,Placed,9.51
+2234,Placed,16.3
+2235,Not Placed,0.0
+2236,Placed,13.63
+2237,Placed,17.76
+2238,Placed,17.58
+2239,Not Placed,0.0
+2240,Placed,13.59
+2241,Placed,18.07
+2242,Placed,15.93
+2243,Placed,14.01
+2244,Placed,20.0
+2245,Placed,20.0
+2246,Placed,20.0
+2247,Placed,18.37
+2248,Placed,18.24
+2249,Placed,16.89
+2250,Placed,16.24
+2251,Placed,20.0
+2252,Placed,19.64
+2253,Placed,19.77
+2254,Placed,18.66
+2255,Placed,15.25
+2256,Not Placed,0.0
+2257,Placed,20.0
+2258,Placed,16.23
+2259,Not Placed,0.0
+2260,Placed,13.59
+2261,Placed,20.0
+2262,Placed,16.33
+2263,Not Placed,0.0
+2264,Placed,16.82
+2265,Placed,12.93
+2266,Placed,20.0
+2267,Placed,18.93
+2268,Placed,13.66
+2269,Placed,16.04
+2270,Placed,11.5
+2271,Placed,14.93
+2272,Placed,13.65
+2273,Placed,15.67
+2274,Placed,11.67
+2275,Placed,18.15
+2276,Placed,19.72
+2277,Placed,14.16
+2278,Placed,18.02
+2279,Placed,12.96
+2280,Placed,13.26
+2281,Not Placed,0.0
+2282,Placed,19.73
+2283,Placed,15.97
+2284,Placed,15.71
+2285,Placed,20.0
+2286,Placed,15.82
+2287,Placed,16.2
+2288,Placed,20.0
+2289,Placed,15.61
+2290,Placed,15.95
+2291,Placed,16.16
+2292,Placed,18.19
+2293,Placed,12.91
+2294,Placed,13.41
+2295,Placed,20.0
+2296,Placed,17.73
+2297,Placed,17.74
+2298,Placed,12.8
+2299,Placed,19.32
+2300,Placed,12.42
+2301,Placed,11.57
+2302,Placed,13.89
+2303,Placed,17.86
+2304,Placed,20.0
+2305,Placed,16.8
+2306,Placed,20.0
+2307,Placed,13.97
+2308,Placed,16.79
+2309,Placed,16.42
+2310,Placed,13.34
+2311,Placed,19.71
+2312,Placed,10.09
+2313,Placed,16.1
+2314,Placed,12.79
+2315,Placed,20.0
+2316,Placed,14.04
+2317,Placed,17.46
+2318,Placed,11.38
+2319,Placed,18.35
+2320,Not Placed,0.0
+2321,Placed,20.0
+2322,Placed,14.76
+2323,Placed,17.82
+2324,Placed,11.24
+2325,Placed,15.98
+2326,Placed,20.0
+2327,Placed,20.0
+2328,Placed,14.72
+2329,Not Placed,0.0
+2330,Placed,7.0
+2331,Not Placed,0.0
+2332,Placed,19.17
+2333,Not Placed,0.0
+2334,Placed,14.83
+2335,Placed,10.58
+2336,Not Placed,0.0
+2337,Not Placed,0.0
+2338,Placed,17.35
+2339,Placed,12.94
+2340,Not Placed,0.0
+2341,Placed,17.95
+2342,Not Placed,0.0
+2343,Placed,20.0
+2344,Placed,14.2
+2345,Placed,11.89
+2346,Placed,20.0
+2347,Placed,12.72
+2348,Placed,13.77
+2349,Not Placed,0.0
+2350,Placed,19.51
+2351,Placed,19.28
+2352,Placed,15.16
+2353,Placed,12.87
+2354,Not Placed,0.0
+2355,Placed,20.0
+2356,Placed,20.0
+2357,Not Placed,0.0
+2358,Placed,16.33
+2359,Placed,20.0
+2360,Placed,20.0
+2361,Placed,15.17
+2362,Placed,19.45
+2363,Placed,20.0
+2364,Placed,16.08
+2365,Placed,18.43
+2366,Placed,16.53
+2367,Placed,16.5
+2368,Placed,16.33
+2369,Placed,19.38
+2370,Not Placed,0.0
+2371,Placed,17.07
+2372,Placed,18.44
+2373,Placed,20.0
+2374,Placed,13.19
+2375,Placed,19.1
+2376,Placed,20.0
+2377,Placed,14.63
+2378,Placed,13.9
+2379,Placed,10.99
+2380,Placed,20.0
+2381,Not Placed,0.0
+2382,Placed,17.79
+2383,Placed,19.35
+2384,Not Placed,0.0
+2385,Placed,15.1
+2386,Not Placed,0.0
+2387,Placed,11.71
+2388,Placed,19.96
+2389,Placed,18.34
+2390,Not Placed,0.0
+2391,Placed,19.27
+2392,Placed,16.65
+2393,Placed,20.0
+2394,Placed,15.52
+2395,Placed,17.06
+2396,Placed,8.17
+2397,Placed,16.13
+2398,Placed,16.05
+2399,Placed,13.34
+2400,Placed,15.64
+2401,Placed,20.0
+2402,Placed,10.31
+2403,Not Placed,0.0
+2404,Placed,15.27
+2405,Not Placed,0.0
+2406,Placed,20.0
+2407,Placed,13.55
+2408,Placed,20.0
+2409,Placed,15.48
+2410,Placed,17.16
+2411,Placed,9.44
+2412,Placed,13.32
+2413,Placed,20.0
+2414,Placed,20.0
+2415,Placed,11.05
+2416,Placed,19.75
+2417,Placed,10.04
+2418,Placed,17.5
+2419,Placed,18.74
+2420,Not Placed,0.0
+2421,Placed,18.72
+2422,Placed,10.62
+2423,Placed,14.4
+2424,Not Placed,0.0
+2425,Placed,16.87
+2426,Placed,12.11
+2427,Placed,11.82
+2428,Placed,13.94
+2429,Placed,10.99
+2430,Placed,13.28
+2431,Placed,20.0
+2432,Placed,20.0
+2433,Placed,15.18
+2434,Not Placed,0.0
+2435,Placed,19.45
+2436,Placed,15.27
+2437,Placed,16.71
+2438,Placed,12.38
+2439,Placed,14.94
+2440,Not Placed,0.0
+2441,Placed,13.42
+2442,Placed,20.0
+2443,Placed,12.1
+2444,Placed,13.07
+2445,Placed,16.66
+2446,Placed,15.28
+2447,Placed,15.25
+2448,Placed,18.88
+2449,Placed,19.16
+2450,Placed,19.64
+2451,Not Placed,0.0
+2452,Placed,18.59
+2453,Placed,16.43
+2454,Placed,12.91
+2455,Placed,14.61
+2456,Placed,16.21
+2457,Not Placed,0.0
+2458,Not Placed,0.0
+2459,Placed,17.57
+2460,Placed,17.62
+2461,Placed,17.45
+2462,Placed,12.8
+2463,Placed,12.62
+2464,Placed,15.77
+2465,Placed,13.25
+2466,Not Placed,0.0
+2467,Placed,18.95
+2468,Placed,8.04
+2469,Placed,19.97
+2470,Placed,13.54
+2471,Placed,20.0
+2472,Placed,20.0
+2473,Placed,20.0
+2474,Not Placed,0.0
+2475,Placed,14.17
+2476,Placed,9.78
+2477,Placed,15.1
+2478,Placed,17.35
+2479,Placed,15.19
+2480,Placed,18.27
+2481,Placed,13.52
+2482,Placed,20.0
+2483,Not Placed,0.0
+2484,Placed,8.18
+2485,Placed,18.7
+2486,Placed,12.52
+2487,Placed,15.3
+2488,Placed,16.24
+2489,Placed,13.19
+2490,Placed,17.65
+2491,Placed,15.3
+2492,Placed,12.68
+2493,Placed,13.73
+2494,Not Placed,0.0
+2495,Placed,18.09
+2496,Placed,18.19
+2497,Placed,20.0
+2498,Not Placed,0.0
+2499,Placed,14.13
+2500,Placed,17.33
+2501,Placed,20.0
+2502,Placed,14.41
+2503,Not Placed,0.0
+2504,Placed,15.05
+2505,Placed,15.6
+2506,Placed,18.4
+2507,Placed,17.16
+2508,Placed,16.97
+2509,Placed,16.57
+2510,Placed,12.79
+2511,Placed,19.89
+2512,Not Placed,0.0
+2513,Placed,9.33
+2514,Placed,15.92
+2515,Not Placed,0.0
+2516,Placed,16.69
+2517,Placed,20.0
+2518,Placed,11.73
+2519,Placed,12.39
+2520,Placed,17.39
+2521,Placed,18.37
+2522,Placed,18.59
+2523,Placed,18.51
+2524,Placed,14.7
+2525,Placed,20.0
+2526,Placed,15.78
+2527,Placed,11.32
+2528,Placed,20.0
+2529,Placed,12.26
+2530,Placed,14.77
+2531,Placed,17.36
+2532,Placed,17.8
+2533,Placed,19.01
+2534,Not Placed,0.0
+2535,Placed,18.94
+2536,Placed,15.56
+2537,Not Placed,0.0
+2538,Placed,10.62
+2539,Placed,17.05
+2540,Placed,16.89
+2541,Placed,16.44
+2542,Placed,18.3
+2543,Placed,14.48
+2544,Placed,12.18
+2545,Placed,20.0
+2546,Not Placed,0.0
+2547,Placed,13.8
+2548,Placed,19.47
+2549,Placed,20.0
+2550,Not Placed,0.0
+2551,Placed,15.7
+2552,Placed,16.42
+2553,Placed,15.24
+2554,Placed,17.52
+2555,Placed,17.14
+2556,Placed,19.45
+2557,Placed,12.78
+2558,Placed,17.25
+2559,Placed,15.19
+2560,Placed,16.98
+2561,Placed,14.73
+2562,Placed,12.51
+2563,Placed,19.58
+2564,Placed,15.9
+2565,Not Placed,0.0
+2566,Not Placed,0.0
+2567,Placed,17.23
+2568,Placed,19.65
+2569,Not Placed,0.0
+2570,Placed,20.0
+2571,Placed,15.65
+2572,Placed,15.74
+2573,Placed,18.87
+2574,Placed,16.01
+2575,Placed,17.94
+2576,Placed,15.07
+2577,Placed,11.69
+2578,Placed,17.96
+2579,Placed,18.75
+2580,Placed,15.56
+2581,Not Placed,0.0
+2582,Placed,19.7
+2583,Placed,20.0
+2584,Placed,18.78
+2585,Placed,16.98
+2586,Placed,14.13
+2587,Placed,16.04
+2588,Placed,19.0
+2589,Placed,15.96
+2590,Placed,17.28
+2591,Placed,16.72
+2592,Placed,16.08
+2593,Placed,12.19
+2594,Placed,16.73
+2595,Placed,15.06
+2596,Placed,13.54
+2597,Placed,19.51
+2598,Placed,20.0
+2599,Placed,9.76
+2600,Placed,13.71
+2601,Placed,17.21
+2602,Placed,17.67
+2603,Placed,9.81
+2604,Placed,18.69
+2605,Placed,18.91
+2606,Placed,5.22
+2607,Placed,15.85
+2608,Placed,10.66
+2609,Placed,17.03
+2610,Placed,17.69
+2611,Placed,17.28
+2612,Placed,20.0
+2613,Placed,18.47
+2614,Placed,14.04
+2615,Placed,20.0
+2616,Placed,20.0
+2617,Not Placed,0.0
+2618,Placed,20.0
+2619,Placed,13.6
+2620,Placed,10.84
+2621,Not Placed,0.0
+2622,Placed,13.26
+2623,Placed,18.34
+2624,Placed,17.62
+2625,Placed,15.2
+2626,Placed,15.42
+2627,Placed,17.58
+2628,Placed,15.67
+2629,Placed,17.17
+2630,Not Placed,0.0
+2631,Placed,16.33
+2632,Not Placed,0.0
+2633,Placed,15.13
+2634,Placed,17.56
+2635,Placed,11.46
+2636,Placed,19.24
+2637,Placed,18.77
+2638,Placed,16.0
+2639,Placed,20.0
+2640,Placed,20.0
+2641,Placed,20.0
+2642,Placed,17.56
+2643,Placed,12.46
+2644,Placed,17.13
+2645,Placed,16.85
+2646,Placed,11.5
+2647,Placed,11.21
+2648,Placed,12.54
+2649,Not Placed,0.0
+2650,Placed,19.09
+2651,Placed,18.69
+2652,Not Placed,0.0
+2653,Placed,17.77
+2654,Not Placed,0.0
+2655,Placed,18.85
+2656,Not Placed,0.0
+2657,Placed,14.37
+2658,Placed,9.82
+2659,Not Placed,0.0
+2660,Not Placed,0.0
+2661,Not Placed,0.0
+2662,Placed,6.86
+2663,Placed,17.63
+2664,Placed,17.72
+2665,Placed,17.79
+2666,Placed,17.49
+2667,Placed,10.03
+2668,Placed,14.98
+2669,Not Placed,0.0
+2670,Placed,13.23
+2671,Placed,18.01
+2672,Placed,18.5
+2673,Placed,13.5
+2674,Placed,18.08
+2675,Placed,20.0
+2676,Placed,20.0
+2677,Not Placed,0.0
+2678,Placed,20.0
+2679,Placed,20.0
+2680,Placed,14.34
+2681,Not Placed,0.0
+2682,Placed,17.13
+2683,Not Placed,0.0
+2684,Placed,12.45
+2685,Not Placed,0.0
+2686,Not Placed,0.0
+2687,Placed,19.1
+2688,Placed,18.26
+2689,Placed,17.82
+2690,Placed,14.08
+2691,Placed,16.36
+2692,Placed,16.15
+2693,Not Placed,0.0
+2694,Placed,12.9
+2695,Placed,17.18
+2696,Placed,14.81
+2697,Placed,17.59
+2698,Placed,13.89
+2699,Placed,15.17
+2700,Placed,15.97
+2701,Placed,19.66
+2702,Placed,14.47
+2703,Placed,14.01
+2704,Placed,10.77
+2705,Placed,20.0
+2706,Placed,16.32
+2707,Placed,6.9
+2708,Placed,11.02
+2709,Placed,15.99
+2710,Placed,18.4
+2711,Placed,8.93
+2712,Placed,17.99
+2713,Placed,18.59
+2714,Not Placed,0.0
+2715,Placed,19.85
+2716,Placed,14.53
+2717,Placed,16.07
+2718,Placed,20.0
+2719,Placed,15.85
+2720,Placed,19.21
+2721,Placed,15.12
+2722,Placed,15.81
+2723,Placed,17.18
+2724,Placed,12.12
+2725,Placed,18.88
+2726,Placed,20.0
+2727,Placed,18.52
+2728,Placed,12.52
+2729,Placed,14.73
+2730,Placed,12.28
+2731,Placed,17.31
+2732,Placed,17.04
+2733,Placed,18.2
+2734,Placed,13.14
+2735,Placed,20.0
+2736,Placed,13.28
+2737,Placed,16.78
+2738,Placed,20.0
+2739,Placed,9.42
+2740,Placed,17.36
+2741,Placed,15.9
+2742,Not Placed,0.0
+2743,Placed,9.26
+2744,Placed,16.33
+2745,Placed,19.17
+2746,Placed,11.25
+2747,Placed,18.21
+2748,Placed,14.82
+2749,Placed,20.0
+2750,Placed,18.39
+2751,Placed,16.96
+2752,Placed,16.72
+2753,Placed,19.22
+2754,Placed,13.7
+2755,Placed,13.73
+2756,Placed,20.0
+2757,Placed,17.3
+2758,Placed,18.36
+2759,Placed,9.06
+2760,Not Placed,0.0
+2761,Placed,15.31
+2762,Placed,17.52
+2763,Not Placed,0.0
+2764,Placed,15.95
+2765,Placed,12.4
+2766,Not Placed,0.0
+2767,Placed,14.65
+2768,Placed,17.69
+2769,Placed,19.71
+2770,Not Placed,0.0
+2771,Placed,20.0
+2772,Placed,17.0
+2773,Placed,18.85
+2774,Placed,8.2
+2775,Placed,13.4
+2776,Placed,15.61
+2777,Placed,17.21
+2778,Placed,16.9
+2779,Placed,19.92
+2780,Placed,15.76
+2781,Placed,14.66
+2782,Placed,17.76
+2783,Placed,14.3
+2784,Placed,19.27
+2785,Placed,20.0
+2786,Placed,14.83
+2787,Placed,13.3
+2788,Not Placed,0.0
+2789,Placed,19.91
+2790,Not Placed,0.0
+2791,Placed,12.22
+2792,Not Placed,0.0
+2793,Placed,13.5
+2794,Placed,15.3
+2795,Placed,15.8
+2796,Placed,14.43
+2797,Placed,18.56
+2798,Placed,20.0
+2799,Placed,18.67
+2800,Placed,19.92
+2801,Not Placed,0.0
+2802,Placed,20.0
+2803,Placed,13.7
+2804,Placed,17.59
+2805,Not Placed,0.0
+2806,Placed,15.4
+2807,Placed,8.34
+2808,Placed,14.96
+2809,Placed,15.64
+2810,Placed,14.28
+2811,Placed,19.09
+2812,Placed,19.54
+2813,Placed,16.73
+2814,Placed,16.99
+2815,Placed,19.66
+2816,Placed,14.76
+2817,Placed,16.38
+2818,Placed,18.33
+2819,Placed,18.16
+2820,Placed,13.43
+2821,Placed,12.21
+2822,Placed,18.57
+2823,Placed,10.42
+2824,Not Placed,0.0
+2825,Placed,16.0
+2826,Placed,20.0
+2827,Placed,15.45
+2828,Not Placed,0.0
+2829,Placed,19.55
+2830,Placed,13.33
+2831,Not Placed,0.0
+2832,Placed,16.46
+2833,Placed,12.55
+2834,Placed,20.0
+2835,Placed,14.33
+2836,Placed,19.52
+2837,Not Placed,0.0
+2838,Placed,17.5
+2839,Placed,15.46
+2840,Placed,14.66
+2841,Placed,8.57
+2842,Placed,12.51
+2843,Not Placed,0.0
+2844,Placed,16.66
+2845,Placed,17.66
+2846,Placed,19.56
+2847,Placed,20.0
+2848,Placed,19.08
+2849,Placed,15.98
+2850,Placed,17.71
+2851,Placed,17.65
+2852,Placed,14.59
+2853,Not Placed,0.0
+2854,Placed,20.0
+2855,Not Placed,0.0
+2856,Placed,16.29
+2857,Placed,15.64
+2858,Placed,20.0
+2859,Placed,15.37
+2860,Placed,13.82
+2861,Not Placed,0.0
+2862,Placed,20.0
+2863,Placed,15.11
+2864,Not Placed,0.0
+2865,Placed,13.14
+2866,Placed,13.85
+2867,Not Placed,0.0
+2868,Placed,11.04
+2869,Placed,17.8
+2870,Placed,13.91
+2871,Placed,19.92
+2872,Placed,20.0
+2873,Not Placed,0.0
+2874,Not Placed,0.0
+2875,Placed,14.77
+2876,Not Placed,0.0
+2877,Placed,14.11
+2878,Placed,18.78
+2879,Placed,16.72
+2880,Placed,16.37
+2881,Placed,17.08
+2882,Placed,16.95
+2883,Placed,14.02
+2884,Placed,14.77
+2885,Placed,17.27
+2886,Placed,16.08
+2887,Placed,20.0
+2888,Placed,18.71
+2889,Placed,14.47
+2890,Placed,16.63
+2891,Placed,19.69
+2892,Placed,13.07
+2893,Placed,15.6
+2894,Placed,18.0
+2895,Placed,19.7
+2896,Placed,17.31
+2897,Not Placed,0.0
+2898,Placed,14.98
+2899,Placed,12.0
+2900,Placed,19.36
+2901,Placed,16.65
+2902,Placed,15.1
+2903,Placed,18.35
+2904,Placed,18.26
+2905,Placed,18.03
+2906,Placed,19.48
+2907,Placed,13.86
+2908,Placed,14.79
+2909,Not Placed,0.0
+2910,Placed,14.14
+2911,Placed,16.73
+2912,Placed,13.36
+2913,Placed,11.8
+2914,Placed,18.29
+2915,Placed,19.14
+2916,Placed,16.59
+2917,Not Placed,0.0
+2918,Placed,20.0
+2919,Placed,20.0
+2920,Placed,19.97
+2921,Placed,12.81
+2922,Placed,11.93
+2923,Placed,19.94
+2924,Placed,20.0
+2925,Placed,20.0
+2926,Placed,20.0
+2927,Placed,9.15
+2928,Placed,20.0
+2929,Not Placed,0.0
+2930,Placed,15.45
+2931,Placed,19.15
+2932,Placed,18.06
+2933,Placed,17.34
+2934,Not Placed,0.0
+2935,Placed,15.11
+2936,Placed,15.0
+2937,Placed,20.0
+2938,Placed,14.62
+2939,Placed,11.83
+2940,Placed,14.66
+2941,Placed,12.41
+2942,Placed,12.79
+2943,Placed,20.0
+2944,Placed,14.95
+2945,Placed,20.0
+2946,Placed,15.28
+2947,Placed,15.34
+2948,Placed,10.84
+2949,Placed,16.75
+2950,Placed,13.06
+2951,Placed,17.06
+2952,Placed,14.02
+2953,Placed,10.14
+2954,Placed,17.09
+2955,Placed,17.51
+2956,Placed,10.96
+2957,Not Placed,0.0
+2958,Placed,20.0
+2959,Placed,14.34
+2960,Placed,17.24
+2961,Placed,14.7
+2962,Not Placed,0.0
+2963,Placed,18.36
+2964,Placed,18.75
+2965,Placed,18.37
+2966,Placed,15.75
+2967,Placed,20.0
+2968,Placed,12.43
+2969,Placed,16.59
+2970,Placed,20.0
+2971,Placed,18.52
+2972,Placed,16.72
+2973,Placed,9.67
+2974,Placed,14.28
+2975,Placed,18.46
+2976,Not Placed,0.0
+2977,Not Placed,0.0
+2978,Placed,11.25
+2979,Not Placed,0.0
+2980,Not Placed,0.0
+2981,Placed,15.82
+2982,Placed,14.85
+2983,Placed,19.15
+2984,Placed,19.14
+2985,Not Placed,0.0
+2986,Placed,20.0
+2987,Placed,16.53
+2988,Placed,11.88
+2989,Placed,11.67
+2990,Placed,18.14
+2991,Not Placed,0.0
+2992,Placed,13.8
+2993,Placed,20.0
+2994,Placed,15.61
+2995,Placed,20.0
+2996,Placed,15.79
+2997,Placed,16.01
+2998,Placed,14.71
+2999,Not Placed,0.0
+3000,Placed,14.57
+3001,Placed,15.24
+3002,Placed,14.45
+3003,Placed,14.82
+3004,Placed,11.5
+3005,Placed,20.0
+3006,Not Placed,0.0
+3007,Placed,8.47
+3008,Placed,18.89
+3009,Placed,9.67
+3010,Not Placed,0.0
+3011,Placed,20.0
+3012,Placed,15.95
+3013,Placed,15.77
+3014,Placed,19.35
+3015,Placed,15.88
+3016,Placed,15.98
+3017,Placed,17.26
+3018,Not Placed,0.0
+3019,Placed,13.36
+3020,Placed,18.4
+3021,Placed,17.64
+3022,Placed,18.96
+3023,Placed,16.39
+3024,Placed,19.52
+3025,Placed,10.28
+3026,Placed,20.0
+3027,Placed,17.58
+3028,Placed,17.51
+3029,Placed,16.94
+3030,Placed,18.73
+3031,Placed,20.0
+3032,Placed,18.05
+3033,Placed,10.08
+3034,Placed,13.57
+3035,Not Placed,0.0
+3036,Placed,16.89
+3037,Placed,20.0
+3038,Placed,18.5
+3039,Placed,14.52
+3040,Placed,12.57
+3041,Placed,17.96
+3042,Placed,14.39
+3043,Not Placed,0.0
+3044,Placed,14.85
+3045,Placed,15.13
+3046,Placed,20.0
+3047,Placed,14.81
+3048,Placed,15.79
+3049,Placed,18.89
+3050,Placed,20.0
+3051,Placed,17.69
+3052,Placed,17.26
+3053,Placed,10.3
+3054,Not Placed,0.0
+3055,Placed,20.0
+3056,Placed,17.45
+3057,Not Placed,0.0
+3058,Placed,12.52
+3059,Placed,20.0
+3060,Placed,13.95
+3061,Placed,15.65
+3062,Not Placed,0.0
+3063,Placed,16.55
+3064,Placed,19.62
+3065,Placed,14.28
+3066,Placed,20.0
+3067,Placed,9.33
+3068,Placed,16.2
+3069,Placed,9.05
+3070,Placed,16.39
+3071,Not Placed,0.0
+3072,Placed,15.14
+3073,Placed,16.68
+3074,Placed,8.38
+3075,Placed,20.0
+3076,Placed,17.2
+3077,Placed,15.54
+3078,Placed,17.61
+3079,Placed,13.88
+3080,Not Placed,0.0
+3081,Placed,13.03
+3082,Placed,20.0
+3083,Placed,20.0
+3084,Placed,15.08
+3085,Placed,12.95
+3086,Placed,16.37
+3087,Placed,14.44
+3088,Not Placed,0.0
+3089,Placed,20.0
+3090,Placed,20.0
+3091,Placed,17.78
+3092,Placed,18.86
+3093,Placed,16.05
+3094,Placed,17.07
+3095,Not Placed,0.0
+3096,Placed,15.95
+3097,Placed,16.73
+3098,Placed,17.09
+3099,Placed,18.5
+3100,Not Placed,0.0
+3101,Placed,20.0
+3102,Placed,20.0
+3103,Placed,20.0
+3104,Not Placed,0.0
+3105,Placed,17.97
+3106,Placed,18.33
+3107,Placed,13.06
+3108,Placed,16.36
+3109,Placed,18.94
+3110,Placed,18.21
+3111,Placed,13.16
+3112,Placed,20.0
+3113,Placed,15.78
+3114,Placed,14.73
+3115,Placed,10.25
+3116,Not Placed,0.0
+3117,Placed,9.45
+3118,Placed,16.53
+3119,Placed,13.9
+3120,Placed,18.75
+3121,Placed,18.71
+3122,Not Placed,0.0
+3123,Placed,15.95
+3124,Placed,14.65
+3125,Not Placed,0.0
+3126,Placed,16.68
+3127,Placed,14.32
+3128,Not Placed,0.0
+3129,Placed,15.19
+3130,Not Placed,0.0
+3131,Placed,20.0
+3132,Placed,16.7
+3133,Placed,17.92
+3134,Placed,11.92
+3135,Placed,12.54
+3136,Placed,15.2
+3137,Placed,17.25
+3138,Not Placed,0.0
+3139,Placed,9.67
+3140,Placed,20.0
+3141,Placed,15.44
+3142,Placed,15.53
+3143,Placed,11.65
+3144,Placed,20.0
+3145,Placed,18.61
+3146,Placed,20.0
+3147,Placed,13.02
+3148,Placed,10.87
+3149,Placed,11.73
+3150,Placed,13.64
+3151,Placed,14.37
+3152,Placed,14.03
+3153,Placed,20.0
+3154,Placed,17.29
+3155,Placed,16.08
+3156,Placed,18.8
+3157,Not Placed,0.0
+3158,Placed,18.78
+3159,Placed,17.62
+3160,Not Placed,0.0
+3161,Not Placed,0.0
+3162,Placed,20.0
+3163,Placed,10.88
+3164,Not Placed,0.0
+3165,Placed,20.0
+3166,Placed,10.99
+3167,Placed,15.61
+3168,Placed,11.78
+3169,Placed,14.02
+3170,Placed,13.69
+3171,Placed,14.18
+3172,Placed,17.23
+3173,Placed,20.0
+3174,Placed,20.0
+3175,Placed,11.11
+3176,Placed,18.88
+3177,Placed,20.0
+3178,Placed,16.85
+3179,Placed,20.0
+3180,Placed,13.15
+3181,Placed,15.85
+3182,Not Placed,0.0
+3183,Not Placed,0.0
+3184,Placed,19.37
+3185,Placed,20.0
+3186,Placed,20.0
+3187,Placed,20.0
+3188,Placed,15.91
+3189,Placed,15.15
+3190,Placed,16.24
+3191,Not Placed,0.0
+3192,Placed,17.81
+3193,Placed,17.51
+3194,Placed,14.83
+3195,Placed,15.4
+3196,Placed,20.0
+3197,Placed,18.55
+3198,Not Placed,0.0
+3199,Placed,11.28
+3200,Placed,14.31
+3201,Placed,20.0
+3202,Not Placed,0.0
+3203,Placed,18.45
+3204,Placed,20.0
+3205,Placed,16.15
+3206,Placed,17.59
+3207,Placed,20.0
+3208,Not Placed,0.0
+3209,Placed,16.94
+3210,Placed,16.69
+3211,Not Placed,0.0
+3212,Placed,18.83
+3213,Placed,20.0
+3214,Placed,14.54
+3215,Placed,16.32
+3216,Placed,17.84
+3217,Placed,16.85
+3218,Placed,15.09
+3219,Not Placed,0.0
+3220,Placed,19.07
+3221,Not Placed,0.0
+3222,Placed,15.89
+3223,Placed,15.28
+3224,Placed,12.86
+3225,Not Placed,0.0
+3226,Placed,17.43
+3227,Placed,16.81
+3228,Placed,20.0
+3229,Placed,10.93
+3230,Placed,20.0
+3231,Placed,16.53
+3232,Placed,12.61
+3233,Placed,14.19
+3234,Placed,9.79
+3235,Placed,18.72
+3236,Not Placed,0.0
+3237,Placed,13.46
+3238,Placed,18.06
+3239,Placed,17.92
+3240,Placed,17.09
+3241,Placed,11.75
+3242,Not Placed,0.0
+3243,Placed,12.94
+3244,Placed,12.3
+3245,Placed,13.22
+3246,Placed,13.37
+3247,Placed,16.2
+3248,Not Placed,0.0
+3249,Placed,17.17
+3250,Placed,15.45
+3251,Placed,12.35
+3252,Placed,20.0
+3253,Placed,14.31
+3254,Placed,10.12
+3255,Placed,12.4
+3256,Placed,10.13
+3257,Placed,13.44
+3258,Placed,16.33
+3259,Placed,14.67
+3260,Not Placed,0.0
+3261,Placed,10.56
+3262,Placed,14.95
+3263,Placed,14.45
+3264,Placed,14.43
+3265,Not Placed,0.0
+3266,Placed,19.43
+3267,Placed,20.0
+3268,Placed,13.41
+3269,Placed,12.64
+3270,Placed,17.07
+3271,Placed,20.0
+3272,Placed,13.22
+3273,Placed,14.83
+3274,Placed,13.32
+3275,Placed,19.48
+3276,Not Placed,0.0
+3277,Placed,14.26
+3278,Not Placed,0.0
+3279,Placed,19.09
+3280,Placed,20.0
+3281,Not Placed,0.0
+3282,Placed,13.69
+3283,Placed,15.92
+3284,Placed,12.55
+3285,Placed,11.34
+3286,Placed,18.72
+3287,Placed,15.66
+3288,Placed,16.77
+3289,Placed,14.39
+3290,Placed,15.62
+3291,Placed,19.41
+3292,Placed,19.41
+3293,Placed,17.04
+3294,Placed,20.0
+3295,Not Placed,0.0
+3296,Placed,17.6
+3297,Placed,9.87
+3298,Placed,13.33
+3299,Placed,15.41
+3300,Placed,15.35
+3301,Not Placed,0.0
+3302,Placed,15.92
+3303,Placed,20.0
+3304,Placed,14.57
+3305,Placed,18.34
+3306,Placed,18.52
+3307,Placed,13.66
+3308,Placed,17.36
+3309,Placed,14.71
+3310,Placed,13.49
+3311,Placed,20.0
+3312,Placed,16.6
+3313,Not Placed,0.0
+3314,Placed,14.49
+3315,Placed,18.94
+3316,Placed,20.0
+3317,Placed,14.17
+3318,Placed,18.56
+3319,Placed,13.13
+3320,Placed,13.08
+3321,Placed,20.0
+3322,Placed,12.39
+3323,Placed,11.91
+3324,Not Placed,0.0
+3325,Placed,19.15
+3326,Placed,15.14
+3327,Placed,17.16
+3328,Placed,17.59
+3329,Placed,16.25
+3330,Placed,13.23
+3331,Not Placed,0.0
+3332,Not Placed,0.0
+3333,Placed,20.0
+3334,Placed,16.57
+3335,Not Placed,0.0
+3336,Placed,20.0
+3337,Placed,20.0
+3338,Placed,19.07
+3339,Not Placed,0.0
+3340,Placed,19.12
+3341,Placed,18.34
+3342,Placed,7.5
+3343,Placed,15.66
+3344,Placed,18.35
+3345,Placed,15.34
+3346,Placed,11.16
+3347,Placed,15.68
+3348,Placed,14.0
+3349,Placed,19.92
+3350,Placed,19.32
+3351,Not Placed,0.0
+3352,Placed,20.0
+3353,Placed,15.22
+3354,Placed,13.61
+3355,Placed,20.0
+3356,Placed,13.3
+3357,Placed,18.67
+3358,Placed,17.28
+3359,Placed,11.86
+3360,Placed,19.03
+3361,Not Placed,0.0
+3362,Placed,13.84
+3363,Placed,14.71
+3364,Placed,16.77
+3365,Placed,9.76
+3366,Not Placed,0.0
+3367,Placed,17.51
+3368,Placed,19.06
+3369,Placed,18.69
+3370,Placed,20.0
+3371,Placed,20.0
+3372,Not Placed,0.0
+3373,Placed,16.34
+3374,Placed,16.19
+3375,Not Placed,0.0
+3376,Not Placed,0.0
+3377,Placed,18.62
+3378,Placed,20.0
+3379,Not Placed,0.0
+3380,Placed,13.63
+3381,Not Placed,0.0
+3382,Placed,19.33
+3383,Placed,12.77
+3384,Placed,10.79
+3385,Not Placed,0.0
+3386,Placed,12.81
+3387,Placed,13.79
+3388,Not Placed,0.0
+3389,Placed,11.15
+3390,Not Placed,0.0
+3391,Placed,11.7
+3392,Placed,17.76
+3393,Placed,16.86
+3394,Not Placed,0.0
+3395,Placed,11.72
+3396,Placed,12.24
+3397,Placed,13.44
+3398,Not Placed,0.0
+3399,Placed,15.41
+3400,Placed,19.14
+3401,Not Placed,0.0
+3402,Placed,15.4
+3403,Placed,6.37
+3404,Placed,18.33
+3405,Placed,18.92
+3406,Placed,17.36
+3407,Placed,18.69
+3408,Placed,20.0
+3409,Placed,14.74
+3410,Placed,15.54
+3411,Placed,14.54
+3412,Not Placed,0.0
+3413,Placed,10.51
+3414,Not Placed,0.0
+3415,Placed,20.0
+3416,Placed,17.87
+3417,Placed,18.13
+3418,Placed,12.95
+3419,Placed,13.11
+3420,Placed,14.78
+3421,Not Placed,0.0
+3422,Not Placed,0.0
+3423,Placed,17.75
+3424,Placed,12.93
+3425,Placed,19.07
+3426,Placed,19.56
+3427,Placed,20.0
+3428,Placed,17.42
+3429,Placed,10.77
+3430,Placed,19.31
+3431,Placed,18.1
+3432,Placed,16.37
+3433,Placed,20.0
+3434,Placed,14.01
+3435,Placed,17.23
+3436,Placed,14.42
+3437,Placed,14.41
+3438,Placed,10.14
+3439,Placed,19.47
+3440,Not Placed,0.0
+3441,Placed,15.09
+3442,Placed,15.74
+3443,Placed,9.74
+3444,Placed,15.64
+3445,Placed,17.24
+3446,Placed,18.69
+3447,Placed,13.26
+3448,Not Placed,0.0
+3449,Placed,15.51
+3450,Placed,14.37
+3451,Placed,15.52
+3452,Placed,17.29
+3453,Placed,15.74
+3454,Placed,17.86
+3455,Placed,17.8
+3456,Placed,14.64
+3457,Not Placed,0.0
+3458,Placed,15.25
+3459,Placed,18.42
+3460,Placed,17.2
+3461,Placed,13.36
+3462,Placed,19.2
+3463,Placed,18.82
+3464,Placed,13.63
+3465,Placed,18.54
+3466,Placed,17.45
+3467,Placed,11.72
+3468,Not Placed,0.0
+3469,Placed,17.66
+3470,Placed,15.53
+3471,Placed,17.8
+3472,Placed,17.53
+3473,Placed,11.46
+3474,Placed,19.56
+3475,Placed,20.0
+3476,Placed,20.0
+3477,Placed,15.04
+3478,Not Placed,0.0
+3479,Placed,12.03
+3480,Placed,13.92
+3481,Placed,17.17
+3482,Placed,20.0
+3483,Placed,17.85
+3484,Placed,18.85
+3485,Placed,13.69
+3486,Placed,15.3
+3487,Placed,20.0
+3488,Not Placed,0.0
+3489,Placed,15.21
+3490,Placed,16.21
+3491,Placed,16.0
+3492,Placed,16.33
+3493,Placed,16.53
+3494,Not Placed,0.0
+3495,Placed,15.78
+3496,Placed,17.2
+3497,Placed,20.0
+3498,Placed,13.02
+3499,Not Placed,0.0
+3500,Placed,15.24
+3501,Placed,20.0
+3502,Placed,14.08
+3503,Placed,16.61
+3504,Placed,14.07
+3505,Placed,13.02
+3506,Placed,15.35
+3507,Placed,18.13
+3508,Placed,12.67
+3509,Placed,18.94
+3510,Placed,18.03
+3511,Placed,14.77
+3512,Not Placed,0.0
+3513,Placed,14.31
+3514,Placed,15.39
+3515,Placed,17.12
+3516,Placed,10.57
+3517,Placed,16.86
+3518,Placed,18.94
+3519,Placed,20.0
+3520,Placed,11.98
+3521,Placed,13.07
+3522,Placed,12.77
+3523,Placed,13.89
+3524,Not Placed,0.0
+3525,Placed,12.55
+3526,Placed,16.62
+3527,Not Placed,0.0
+3528,Placed,12.25
+3529,Placed,11.98
+3530,Placed,18.93
+3531,Placed,17.78
+3532,Placed,16.84
+3533,Not Placed,0.0
+3534,Placed,10.22
+3535,Not Placed,0.0
+3536,Placed,18.52
+3537,Placed,17.58
+3538,Placed,11.23
+3539,Placed,13.74
+3540,Placed,17.12
+3541,Placed,13.69
+3542,Not Placed,0.0
+3543,Placed,16.65
+3544,Not Placed,0.0
+3545,Not Placed,0.0
+3546,Placed,13.93
+3547,Placed,12.91
+3548,Placed,19.36
+3549,Placed,12.3
+3550,Placed,15.17
+3551,Placed,18.24
+3552,Placed,18.94
+3553,Placed,11.79
+3554,Placed,16.54
+3555,Placed,16.64
+3556,Not Placed,0.0
+3557,Placed,14.62
+3558,Placed,19.07
+3559,Placed,19.43
+3560,Placed,20.0
+3561,Placed,18.93
+3562,Placed,19.13
+3563,Placed,15.64
+3564,Placed,20.0
+3565,Placed,18.86
+3566,Placed,17.42
+3567,Not Placed,0.0
+3568,Placed,19.03
+3569,Not Placed,0.0
+3570,Placed,18.69
+3571,Placed,16.91
+3572,Placed,17.84
+3573,Placed,15.32
+3574,Placed,13.78
+3575,Placed,16.99
+3576,Placed,12.38
+3577,Placed,10.48
+3578,Placed,20.0
+3579,Placed,20.0
+3580,Placed,13.06
+3581,Placed,13.11
+3582,Placed,8.01
+3583,Placed,13.27
+3584,Placed,12.65
+3585,Placed,15.29
+3586,Placed,18.53
+3587,Placed,19.71
+3588,Placed,5.18
+3589,Placed,19.83
+3590,Not Placed,0.0
+3591,Placed,17.18
+3592,Placed,20.0
+3593,Not Placed,0.0
+3594,Placed,12.36
+3595,Not Placed,0.0
+3596,Placed,12.18
+3597,Placed,18.78
+3598,Placed,12.05
+3599,Placed,12.05
+3600,Placed,13.95
+3601,Not Placed,0.0
+3602,Not Placed,0.0
+3603,Placed,14.68
+3604,Not Placed,0.0
+3605,Placed,10.68
+3606,Placed,15.72
+3607,Placed,17.05
+3608,Placed,17.16
+3609,Placed,13.09
+3610,Placed,20.0
+3611,Placed,6.41
+3612,Placed,13.3
+3613,Placed,18.16
+3614,Placed,13.22
+3615,Placed,18.39
+3616,Placed,20.0
+3617,Placed,20.0
+3618,Placed,19.38
+3619,Placed,19.91
+3620,Placed,13.82
+3621,Placed,15.48
+3622,Placed,20.0
+3623,Placed,13.56
+3624,Not Placed,0.0
+3625,Placed,20.0
+3626,Placed,18.29
+3627,Placed,14.58
+3628,Placed,20.0
+3629,Placed,14.9
+3630,Not Placed,0.0
+3631,Placed,15.52
+3632,Placed,15.0
+3633,Placed,20.0
+3634,Placed,12.95
+3635,Placed,17.32
+3636,Placed,15.92
+3637,Not Placed,0.0
+3638,Placed,12.46
+3639,Placed,18.36
+3640,Not Placed,0.0
+3641,Placed,20.0
+3642,Placed,20.0
+3643,Placed,18.34
+3644,Placed,20.0
+3645,Placed,15.0
+3646,Placed,15.3
+3647,Placed,10.32
+3648,Placed,20.0
+3649,Placed,18.57
+3650,Placed,17.2
+3651,Placed,16.34
+3652,Placed,15.79
+3653,Placed,14.43
+3654,Placed,15.68
+3655,Placed,12.59
+3656,Placed,19.07
+3657,Placed,17.38
+3658,Placed,17.97
+3659,Not Placed,0.0
+3660,Placed,17.18
+3661,Placed,16.09
+3662,Placed,16.69
+3663,Placed,15.69
+3664,Not Placed,0.0
+3665,Placed,18.58
+3666,Placed,16.95
+3667,Placed,15.4
+3668,Placed,20.0
+3669,Placed,14.12
+3670,Placed,20.0
+3671,Not Placed,0.0
+3672,Placed,17.39
+3673,Placed,15.36
+3674,Placed,19.76
+3675,Not Placed,0.0
+3676,Placed,14.53
+3677,Placed,20.0
+3678,Not Placed,0.0
+3679,Placed,14.44
+3680,Placed,14.75
+3681,Placed,14.18
+3682,Placed,20.0
+3683,Placed,10.96
+3684,Placed,9.32
+3685,Placed,19.82
+3686,Placed,15.54
+3687,Not Placed,0.0
+3688,Placed,14.68
+3689,Placed,18.06
+3690,Placed,20.0
+3691,Placed,15.53
+3692,Not Placed,0.0
+3693,Placed,14.87
+3694,Placed,13.03
+3695,Placed,15.5
+3696,Placed,17.23
+3697,Placed,18.1
+3698,Placed,9.33
+3699,Placed,14.19
+3700,Placed,14.14
+3701,Not Placed,0.0
+3702,Placed,14.73
+3703,Placed,16.26
+3704,Placed,13.72
+3705,Placed,10.78
+3706,Placed,17.44
+3707,Placed,13.81
+3708,Placed,14.42
+3709,Placed,18.1
+3710,Placed,19.36
+3711,Placed,18.79
+3712,Placed,20.0
+3713,Not Placed,0.0
+3714,Placed,15.58
+3715,Placed,13.65
+3716,Placed,16.34
+3717,Placed,13.36
+3718,Placed,15.12
+3719,Placed,12.63
+3720,Placed,13.31
+3721,Placed,12.57
+3722,Placed,17.01
+3723,Placed,20.0
+3724,Placed,17.39
+3725,Placed,17.33
+3726,Placed,11.78
+3727,Placed,14.61
+3728,Placed,16.85
+3729,Not Placed,0.0
+3730,Placed,14.95
+3731,Placed,16.06
+3732,Placed,11.55
+3733,Placed,12.67
+3734,Not Placed,0.0
+3735,Placed,13.74
+3736,Placed,10.4
+3737,Placed,20.0
+3738,Placed,20.0
+3739,Placed,20.0
+3740,Placed,10.29
+3741,Placed,10.89
+3742,Placed,16.33
+3743,Placed,16.94
+3744,Placed,16.49
+3745,Placed,14.7
+3746,Placed,18.86
+3747,Placed,14.74
+3748,Placed,18.62
+3749,Placed,20.0
+3750,Not Placed,0.0
+3751,Not Placed,0.0
+3752,Placed,20.0
+3753,Placed,10.92
+3754,Placed,14.28
+3755,Placed,17.2
+3756,Placed,14.57
+3757,Placed,18.45
+3758,Placed,19.37
+3759,Placed,20.0
+3760,Placed,19.02
+3761,Placed,17.89
+3762,Placed,13.41
+3763,Not Placed,0.0
+3764,Not Placed,0.0
+3765,Placed,20.0
+3766,Placed,16.24
+3767,Not Placed,0.0
+3768,Placed,16.45
+3769,Placed,18.75
+3770,Placed,14.03
+3771,Placed,20.0
+3772,Placed,20.0
+3773,Placed,15.59
+3774,Not Placed,0.0
+3775,Placed,17.01
+3776,Placed,12.01
+3777,Placed,17.74
+3778,Placed,13.27
+3779,Placed,18.07
+3780,Placed,18.4
+3781,Placed,13.87
+3782,Placed,18.19
+3783,Placed,17.91
+3784,Placed,15.92
+3785,Placed,16.07
+3786,Placed,14.89
+3787,Placed,20.0
+3788,Placed,20.0
+3789,Placed,15.28
+3790,Placed,11.08
+3791,Placed,18.95
+3792,Placed,16.57
+3793,Placed,13.73
+3794,Placed,10.71
+3795,Placed,17.75
+3796,Placed,13.42
+3797,Placed,18.88
+3798,Placed,16.24
+3799,Placed,20.0
+3800,Placed,16.78
+3801,Not Placed,0.0
+3802,Placed,17.58
+3803,Placed,13.31
+3804,Placed,18.12
+3805,Placed,18.13
+3806,Placed,20.0
+3807,Placed,16.73
+3808,Placed,13.4
+3809,Placed,14.07
+3810,Placed,14.54
+3811,Not Placed,0.0
+3812,Not Placed,0.0
+3813,Placed,14.71
+3814,Placed,15.45
+3815,Placed,13.67
+3816,Placed,10.12
+3817,Placed,14.79
+3818,Placed,17.3
+3819,Placed,17.91
+3820,Not Placed,0.0
+3821,Placed,15.86
+3822,Placed,19.05
+3823,Placed,20.0
+3824,Placed,20.0
+3825,Placed,20.0
+3826,Placed,8.3
+3827,Placed,17.86
+3828,Placed,18.91
+3829,Placed,17.52
+3830,Placed,14.8
+3831,Placed,14.16
+3832,Placed,19.27
+3833,Not Placed,0.0
+3834,Placed,17.09
+3835,Placed,18.94
+3836,Placed,15.51
+3837,Placed,16.68
+3838,Placed,15.3
+3839,Placed,15.47
+3840,Placed,12.31
+3841,Not Placed,0.0
+3842,Placed,16.17
+3843,Placed,20.0
+3844,Placed,18.25
+3845,Placed,18.81
+3846,Placed,14.24
+3847,Placed,17.07
+3848,Placed,17.2
+3849,Placed,16.24
+3850,Placed,20.0
+3851,Placed,14.18
+3852,Placed,17.86
+3853,Placed,18.54
+3854,Placed,15.26
+3855,Placed,13.19
+3856,Not Placed,0.0
+3857,Placed,16.28
+3858,Placed,20.0
+3859,Placed,7.27
+3860,Placed,11.46
+3861,Not Placed,0.0
+3862,Placed,20.0
+3863,Placed,17.42
+3864,Placed,17.29
+3865,Placed,14.66
+3866,Placed,16.08
+3867,Placed,18.48
+3868,Placed,11.46
+3869,Not Placed,0.0
+3870,Placed,17.94
+3871,Placed,20.0
+3872,Placed,19.24
+3873,Not Placed,0.0
+3874,Placed,14.46
+3875,Placed,20.0
+3876,Placed,20.0
+3877,Placed,19.49
+3878,Placed,18.48
+3879,Placed,19.23
+3880,Placed,17.64
+3881,Placed,12.19
+3882,Placed,14.31
+3883,Placed,18.62
+3884,Placed,17.0
+3885,Placed,19.79
+3886,Placed,20.0
+3887,Placed,14.01
+3888,Placed,14.22
+3889,Placed,17.9
+3890,Placed,11.58
+3891,Placed,17.16
+3892,Placed,19.13
+3893,Placed,12.77
+3894,Placed,18.65
+3895,Placed,17.72
+3896,Placed,12.93
+3897,Placed,20.0
+3898,Placed,12.76
+3899,Placed,18.5
+3900,Placed,13.68
+3901,Placed,18.82
+3902,Placed,14.97
+3903,Not Placed,0.0
+3904,Placed,11.75
+3905,Placed,19.26
+3906,Placed,20.0
+3907,Placed,19.84
+3908,Placed,17.9
+3909,Placed,14.64
+3910,Not Placed,0.0
+3911,Not Placed,0.0
+3912,Placed,12.22
+3913,Placed,17.41
+3914,Placed,17.11
+3915,Placed,14.43
+3916,Placed,18.59
+3917,Placed,15.68
+3918,Placed,19.95
+3919,Placed,16.55
+3920,Placed,14.04
+3921,Placed,15.65
+3922,Placed,20.0
+3923,Placed,6.77
+3924,Placed,17.28
+3925,Placed,19.97
+3926,Placed,18.85
+3927,Placed,16.48
+3928,Placed,12.17
+3929,Placed,15.03
+3930,Not Placed,0.0
+3931,Placed,17.55
+3932,Placed,17.58
+3933,Placed,13.69
+3934,Placed,13.71
+3935,Placed,15.1
+3936,Placed,18.17
+3937,Placed,17.89
+3938,Not Placed,0.0
+3939,Placed,16.11
+3940,Placed,13.29
+3941,Placed,12.55
+3942,Placed,10.79
+3943,Not Placed,0.0
+3944,Placed,20.0
+3945,Placed,18.51
+3946,Placed,19.66
+3947,Placed,20.0
+3948,Placed,20.0
+3949,Placed,16.27
+3950,Placed,15.32
+3951,Not Placed,0.0
+3952,Placed,18.75
+3953,Not Placed,0.0
+3954,Not Placed,0.0
+3955,Placed,17.89
+3956,Placed,15.1
+3957,Placed,11.38
+3958,Not Placed,0.0
+3959,Placed,14.13
+3960,Placed,19.91
+3961,Placed,15.96
+3962,Placed,12.77
+3963,Placed,12.8
+3964,Not Placed,0.0
+3965,Placed,16.56
+3966,Placed,17.18
+3967,Placed,15.76
+3968,Placed,19.7
+3969,Placed,17.69
+3970,Placed,12.92
+3971,Placed,16.16
+3972,Placed,13.06
+3973,Placed,20.0
+3974,Placed,17.82
+3975,Placed,16.44
+3976,Placed,16.32
+3977,Placed,20.0
+3978,Not Placed,0.0
+3979,Placed,11.96
+3980,Placed,11.51
+3981,Placed,14.46
+3982,Placed,17.12
+3983,Placed,9.49
+3984,Not Placed,0.0
+3985,Placed,20.0
+3986,Placed,16.71
+3987,Placed,14.08
+3988,Placed,14.44
+3989,Placed,13.81
+3990,Placed,11.19
+3991,Not Placed,0.0
+3992,Placed,15.85
+3993,Placed,16.19
+3994,Placed,8.26
+3995,Placed,18.02
+3996,Placed,18.2
+3997,Placed,20.0
+3998,Placed,12.23
+3999,Placed,17.54
+4000,Not Placed,0.0
+4001,Placed,19.79
+4002,Placed,14.74
+4003,Placed,18.91
+4004,Placed,9.2
+4005,Placed,10.85
+4006,Placed,11.0
+4007,Not Placed,0.0
+4008,Placed,6.91
+4009,Placed,15.95
+4010,Placed,14.66
+4011,Placed,20.0
+4012,Placed,17.62
+4013,Placed,13.09
+4014,Not Placed,0.0
+4015,Placed,9.62
+4016,Placed,15.98
+4017,Placed,16.37
+4018,Placed,16.72
+4019,Placed,20.0
+4020,Placed,13.23
+4021,Placed,20.0
+4022,Placed,17.97
+4023,Placed,20.0
+4024,Placed,16.82
+4025,Placed,19.56
+4026,Placed,20.0
+4027,Placed,17.26
+4028,Placed,15.08
+4029,Placed,14.19
+4030,Placed,19.73
+4031,Placed,16.46
+4032,Placed,19.34
+4033,Placed,19.16
+4034,Placed,20.0
+4035,Placed,20.0
+4036,Placed,17.68
+4037,Placed,17.81
+4038,Placed,18.48
+4039,Placed,16.42
+4040,Placed,16.24
+4041,Placed,17.66
+4042,Not Placed,0.0
+4043,Placed,11.01
+4044,Placed,19.37
+4045,Placed,20.0
+4046,Placed,17.58
+4047,Placed,11.01
+4048,Placed,19.21
+4049,Placed,17.06
+4050,Not Placed,0.0
+4051,Placed,17.04
+4052,Placed,17.61
+4053,Placed,17.01
+4054,Not Placed,0.0
+4055,Not Placed,0.0
+4056,Placed,15.51
+4057,Placed,18.32
+4058,Placed,15.16
+4059,Placed,16.55
+4060,Placed,17.73
+4061,Placed,20.0
+4062,Placed,11.22
+4063,Placed,17.62
+4064,Placed,18.27
+4065,Placed,18.8
+4066,Placed,14.8
+4067,Placed,14.58
+4068,Placed,15.88
+4069,Placed,15.93
+4070,Placed,20.0
+4071,Placed,19.1
+4072,Placed,15.08
+4073,Placed,9.2
+4074,Not Placed,0.0
+4075,Placed,17.9
+4076,Placed,13.73
+4077,Placed,19.39
+4078,Placed,18.35
+4079,Placed,19.72
+4080,Placed,19.23
+4081,Placed,19.52
+4082,Not Placed,0.0
+4083,Placed,18.63
+4084,Not Placed,0.0
+4085,Placed,14.23
+4086,Placed,19.9
+4087,Placed,20.0
+4088,Placed,16.2
+4089,Placed,20.0
+4090,Placed,15.86
+4091,Placed,16.84
+4092,Placed,18.17
+4093,Placed,13.62
+4094,Not Placed,0.0
+4095,Placed,17.17
+4096,Placed,15.08
+4097,Placed,20.0
+4098,Placed,12.86
+4099,Not Placed,0.0
+4100,Placed,13.84
+4101,Not Placed,0.0
+4102,Placed,19.73
+4103,Placed,17.94
+4104,Not Placed,0.0
+4105,Placed,16.81
+4106,Placed,20.0
+4107,Placed,15.81
+4108,Placed,13.22
+4109,Placed,14.89
+4110,Placed,19.84
+4111,Placed,16.27
+4112,Placed,16.75
+4113,Placed,14.92
+4114,Placed,12.53
+4115,Placed,17.32
+4116,Placed,13.91
+4117,Not Placed,0.0
+4118,Placed,20.0
+4119,Placed,16.34
+4120,Placed,18.4
+4121,Not Placed,0.0
+4122,Placed,19.67
+4123,Placed,18.52
+4124,Placed,20.0
+4125,Placed,11.8
+4126,Placed,19.19
+4127,Placed,16.24
+4128,Placed,17.09
+4129,Placed,10.76
+4130,Placed,19.14
+4131,Placed,15.64
+4132,Placed,15.24
+4133,Placed,13.78
+4134,Placed,20.0
+4135,Placed,10.41
+4136,Placed,10.86
+4137,Placed,13.74
+4138,Placed,16.93
+4139,Placed,9.43
+4140,Placed,15.17
+4141,Placed,16.87
+4142,Placed,15.22
+4143,Placed,16.34
+4144,Placed,20.0
+4145,Placed,18.81
+4146,Placed,18.89
+4147,Placed,15.04
+4148,Placed,14.2
+4149,Placed,14.35
+4150,Placed,19.57
+4151,Placed,14.7
+4152,Placed,13.88
+4153,Placed,16.95
+4154,Placed,19.52
+4155,Placed,19.0
+4156,Placed,10.24
+4157,Placed,16.93
+4158,Placed,16.45
+4159,Placed,18.31
+4160,Placed,14.03
+4161,Placed,16.76
+4162,Not Placed,0.0
+4163,Placed,11.09
+4164,Placed,17.19
+4165,Placed,13.45
+4166,Not Placed,0.0
+4167,Placed,20.0
+4168,Placed,17.22
+4169,Not Placed,0.0
+4170,Placed,20.0
+4171,Placed,16.4
+4172,Placed,13.38
+4173,Placed,20.0
+4174,Placed,18.91
+4175,Placed,20.0
+4176,Placed,15.09
+4177,Placed,17.86
+4178,Not Placed,0.0
+4179,Placed,9.76
+4180,Placed,16.12
+4181,Placed,20.0
+4182,Not Placed,0.0
+4183,Placed,11.83
+4184,Placed,10.15
+4185,Not Placed,0.0
+4186,Placed,17.08
+4187,Placed,13.75
+4188,Placed,20.0
+4189,Placed,16.1
+4190,Placed,18.95
+4191,Not Placed,0.0
+4192,Placed,14.08
+4193,Placed,20.0
+4194,Placed,14.32
+4195,Placed,12.13
+4196,Placed,19.03
+4197,Placed,14.94
+4198,Not Placed,0.0
+4199,Placed,14.32
+4200,Placed,16.02
+4201,Placed,16.75
+4202,Placed,17.67
+4203,Not Placed,0.0
+4204,Placed,19.52
+4205,Placed,17.09
+4206,Placed,16.69
+4207,Placed,14.98
+4208,Placed,15.31
+4209,Not Placed,0.0
+4210,Placed,11.67
+4211,Placed,20.0
+4212,Placed,12.36
+4213,Placed,14.94
+4214,Not Placed,0.0
+4215,Placed,17.81
+4216,Placed,19.62
+4217,Placed,14.38
+4218,Placed,13.29
+4219,Placed,19.94
+4220,Placed,14.64
+4221,Placed,15.64
+4222,Placed,16.84
+4223,Placed,17.31
+4224,Placed,15.65
+4225,Placed,14.57
+4226,Placed,16.26
+4227,Not Placed,0.0
+4228,Placed,16.65
+4229,Placed,12.23
+4230,Placed,14.83
+4231,Placed,13.92
+4232,Placed,16.42
+4233,Placed,18.41
+4234,Placed,15.1
+4235,Placed,18.1
+4236,Placed,11.3
+4237,Not Placed,0.0
+4238,Not Placed,0.0
+4239,Placed,9.18
+4240,Placed,12.57
+4241,Placed,20.0
+4242,Placed,11.98
+4243,Placed,13.53
+4244,Placed,14.37
+4245,Placed,15.15
+4246,Not Placed,0.0
+4247,Not Placed,0.0
+4248,Placed,14.68
+4249,Placed,14.46
+4250,Placed,11.47
+4251,Placed,17.35
+4252,Placed,14.16
+4253,Placed,16.2
+4254,Placed,11.36
+4255,Not Placed,0.0
+4256,Placed,14.8
+4257,Placed,20.0
+4258,Placed,14.64
+4259,Not Placed,0.0
+4260,Placed,14.45
+4261,Placed,19.88
+4262,Placed,14.99
+4263,Placed,13.66
+4264,Placed,14.6
+4265,Placed,20.0
+4266,Placed,15.7
+4267,Not Placed,0.0
+4268,Placed,16.4
+4269,Placed,18.24
+4270,Placed,20.0
+4271,Not Placed,0.0
+4272,Placed,12.76
+4273,Placed,17.96
+4274,Placed,16.65
+4275,Placed,12.65
+4276,Placed,17.84
+4277,Placed,20.0
+4278,Not Placed,0.0
+4279,Placed,16.38
+4280,Placed,11.48
+4281,Placed,16.23
+4282,Placed,18.21
+4283,Placed,18.47
+4284,Placed,18.21
+4285,Placed,14.66
+4286,Placed,17.61
+4287,Not Placed,0.0
+4288,Placed,15.57
+4289,Placed,15.2
+4290,Placed,20.0
+4291,Placed,19.2
+4292,Placed,18.8
+4293,Placed,12.91
+4294,Placed,16.3
+4295,Placed,18.22
+4296,Placed,18.81
+4297,Placed,18.42
+4298,Placed,18.11
+4299,Not Placed,0.0
+4300,Not Placed,0.0
+4301,Placed,13.32
+4302,Placed,13.95
+4303,Placed,14.37
+4304,Not Placed,0.0
+4305,Placed,15.01
+4306,Placed,16.26
+4307,Placed,17.03
+4308,Placed,13.66
+4309,Placed,14.42
+4310,Placed,13.32
+4311,Placed,18.34
+4312,Placed,15.68
+4313,Placed,17.03
+4314,Not Placed,0.0
+4315,Not Placed,0.0
+4316,Placed,13.44
+4317,Placed,16.12
+4318,Placed,15.23
+4319,Placed,11.87
+4320,Not Placed,0.0
+4321,Placed,15.76
+4322,Placed,15.82
+4323,Placed,20.0
+4324,Not Placed,0.0
+4325,Placed,10.75
+4326,Placed,17.82
+4327,Placed,17.5
+4328,Not Placed,0.0
+4329,Placed,10.66
+4330,Placed,13.33
+4331,Placed,12.9
+4332,Not Placed,0.0
+4333,Placed,19.93
+4334,Placed,17.9
+4335,Placed,7.75
+4336,Not Placed,0.0
+4337,Placed,20.0
+4338,Placed,16.11
+4339,Placed,18.93
+4340,Placed,15.95
+4341,Placed,18.03
+4342,Placed,17.53
+4343,Placed,20.0
+4344,Placed,16.27
+4345,Placed,13.1
+4346,Placed,19.72
+4347,Placed,10.98
+4348,Placed,16.33
+4349,Placed,14.38
+4350,Placed,20.0
+4351,Placed,18.44
+4352,Placed,17.38
+4353,Placed,19.09
+4354,Not Placed,0.0
+4355,Placed,14.97
+4356,Not Placed,0.0
+4357,Placed,14.8
+4358,Placed,14.15
+4359,Placed,15.95
+4360,Placed,11.9
+4361,Placed,17.46
+4362,Placed,16.33
+4363,Placed,9.72
+4364,Placed,17.72
+4365,Placed,19.49
+4366,Placed,16.08
+4367,Not Placed,0.0
+4368,Placed,18.31
+4369,Placed,11.02
+4370,Placed,16.69
+4371,Placed,15.7
+4372,Not Placed,0.0
+4373,Placed,13.93
+4374,Placed,20.0
+4375,Placed,16.82
+4376,Placed,11.94
+4377,Placed,10.68
+4378,Placed,15.79
+4379,Placed,17.7
+4380,Placed,20.0
+4381,Placed,11.81
+4382,Not Placed,0.0
+4383,Placed,16.15
+4384,Placed,12.13
+4385,Placed,7.76
+4386,Not Placed,0.0
+4387,Placed,19.51
+4388,Placed,17.39
+4389,Placed,16.39
+4390,Not Placed,0.0
+4391,Placed,18.46
+4392,Placed,18.35
+4393,Placed,18.31
+4394,Placed,11.22
+4395,Placed,19.7
+4396,Placed,20.0
+4397,Placed,15.63
+4398,Placed,16.71
+4399,Placed,9.21
+4400,Placed,14.63
+4401,Not Placed,0.0
+4402,Placed,15.39
+4403,Placed,19.48
+4404,Placed,15.84
+4405,Placed,17.85
+4406,Not Placed,0.0
+4407,Not Placed,0.0
+4408,Placed,9.64
+4409,Placed,19.2
+4410,Placed,16.36
+4411,Placed,12.99
+4412,Placed,12.61
+4413,Placed,13.67
+4414,Placed,20.0
+4415,Placed,16.04
+4416,Placed,16.48
+4417,Placed,9.85
+4418,Placed,20.0
+4419,Placed,7.16
+4420,Placed,19.08
+4421,Placed,16.2
+4422,Placed,14.52
+4423,Not Placed,0.0
+4424,Placed,12.11
+4425,Placed,18.54
+4426,Placed,10.97
+4427,Not Placed,0.0
+4428,Placed,14.71
+4429,Placed,16.82
+4430,Placed,17.87
+4431,Placed,15.63
+4432,Placed,20.0
+4433,Placed,18.17
+4434,Placed,16.12
+4435,Placed,20.0
+4436,Placed,20.0
+4437,Placed,11.6
+4438,Placed,13.6
+4439,Placed,11.8
+4440,Not Placed,0.0
+4441,Placed,14.76
+4442,Placed,19.18
+4443,Placed,17.28
+4444,Placed,14.5
+4445,Placed,10.3
+4446,Placed,20.0
+4447,Placed,18.43
+4448,Not Placed,0.0
+4449,Placed,13.3
+4450,Placed,18.65
+4451,Placed,15.52
+4452,Placed,20.0
+4453,Placed,17.19
+4454,Not Placed,0.0
+4455,Placed,13.83
+4456,Placed,19.93
+4457,Placed,12.31
+4458,Placed,16.89
+4459,Placed,17.59
+4460,Not Placed,0.0
+4461,Placed,19.56
+4462,Placed,20.0
+4463,Placed,14.86
+4464,Placed,14.65
+4465,Placed,20.0
+4466,Not Placed,0.0
+4467,Placed,15.6
+4468,Placed,13.27
+4469,Placed,16.47
+4470,Placed,15.38
+4471,Placed,15.81
+4472,Placed,13.38
+4473,Placed,18.06
+4474,Placed,18.61
+4475,Placed,15.58
+4476,Not Placed,0.0
+4477,Placed,18.11
+4478,Placed,16.01
+4479,Placed,15.6
+4480,Placed,16.45
+4481,Placed,18.73
+4482,Placed,20.0
+4483,Placed,18.49
+4484,Placed,12.62
+4485,Placed,19.19
+4486,Placed,17.72
+4487,Placed,17.45
+4488,Placed,19.3
+4489,Not Placed,0.0
+4490,Placed,13.18
+4491,Placed,17.15
+4492,Placed,18.74
+4493,Placed,20.0
+4494,Not Placed,0.0
+4495,Placed,16.33
+4496,Placed,18.76
+4497,Placed,11.07
+4498,Placed,15.88
+4499,Placed,20.0
+4500,Placed,12.88
+4501,Placed,16.18
+4502,Placed,18.94
+4503,Not Placed,0.0
+4504,Placed,16.84
+4505,Placed,11.54
+4506,Placed,18.64
+4507,Placed,18.14
+4508,Placed,16.12
+4509,Placed,20.0
+4510,Placed,20.0
+4511,Placed,16.13
+4512,Placed,12.36
+4513,Placed,18.88
+4514,Placed,15.08
+4515,Placed,11.37
+4516,Placed,14.96
+4517,Placed,11.45
+4518,Placed,15.36
+4519,Placed,15.61
+4520,Not Placed,0.0
+4521,Placed,17.15
+4522,Placed,15.29
+4523,Placed,20.0
+4524,Not Placed,0.0
+4525,Placed,17.93
+4526,Placed,20.0
+4527,Placed,20.0
+4528,Placed,20.0
+4529,Placed,20.0
+4530,Placed,18.45
+4531,Placed,20.0
+4532,Not Placed,0.0
+4533,Placed,16.12
+4534,Placed,20.0
+4535,Placed,17.67
+4536,Placed,20.0
+4537,Placed,11.12
+4538,Placed,11.43
+4539,Placed,20.0
+4540,Placed,18.25
+4541,Not Placed,0.0
+4542,Placed,15.89
+4543,Not Placed,0.0
+4544,Placed,20.0
+4545,Placed,12.44
+4546,Placed,17.76
+4547,Not Placed,0.0
+4548,Placed,17.79
+4549,Placed,8.95
+4550,Placed,20.0
+4551,Placed,19.5
+4552,Placed,16.72
+4553,Placed,20.0
+4554,Placed,14.19
+4555,Placed,12.75
+4556,Placed,16.07
+4557,Placed,16.92
+4558,Placed,19.71
+4559,Placed,12.49
+4560,Not Placed,0.0
+4561,Placed,18.58
+4562,Placed,17.22
+4563,Placed,16.16
+4564,Placed,18.44
+4565,Placed,20.0
+4566,Placed,18.81
+4567,Not Placed,0.0
+4568,Placed,13.75
+4569,Placed,7.51
+4570,Placed,16.38
+4571,Placed,16.91
+4572,Placed,11.22
+4573,Placed,13.7
+4574,Placed,20.0
+4575,Placed,16.16
+4576,Not Placed,0.0
+4577,Placed,15.19
+4578,Placed,13.19
+4579,Placed,18.39
+4580,Placed,13.9
+4581,Placed,18.65
+4582,Placed,11.93
+4583,Not Placed,0.0
+4584,Placed,18.55
+4585,Placed,20.0
+4586,Placed,20.0
+4587,Placed,17.05
+4588,Not Placed,0.0
+4589,Placed,16.81
+4590,Placed,16.91
+4591,Placed,19.22
+4592,Placed,19.0
+4593,Placed,10.27
+4594,Not Placed,0.0
+4595,Not Placed,0.0
+4596,Placed,12.07
+4597,Placed,16.12
+4598,Placed,17.48
+4599,Placed,16.32
+4600,Placed,16.48
+4601,Placed,17.33
+4602,Placed,16.7
+4603,Placed,17.91
+4604,Placed,15.49
+4605,Not Placed,0.0
+4606,Placed,17.88
+4607,Placed,19.63
+4608,Placed,16.04
+4609,Placed,15.93
+4610,Placed,14.32
+4611,Placed,12.93
+4612,Placed,11.66
+4613,Placed,20.0
+4614,Placed,17.88
+4615,Placed,19.96
+4616,Placed,20.0
+4617,Placed,18.82
+4618,Placed,14.98
+4619,Placed,11.71
+4620,Placed,18.34
+4621,Not Placed,0.0
+4622,Placed,20.0
+4623,Placed,15.74
+4624,Placed,15.94
+4625,Placed,12.71
+4626,Placed,19.04
+4627,Placed,15.41
+4628,Placed,16.89
+4629,Placed,16.87
+4630,Placed,11.77
+4631,Placed,16.65
+4632,Not Placed,0.0
+4633,Placed,19.67
+4634,Placed,10.39
+4635,Placed,12.36
+4636,Not Placed,0.0
+4637,Placed,13.88
+4638,Placed,17.63
+4639,Placed,15.78
+4640,Placed,15.64
+4641,Placed,12.6
+4642,Placed,11.54
+4643,Placed,15.4
+4644,Placed,16.17
+4645,Placed,14.36
+4646,Placed,12.4
+4647,Placed,15.75
+4648,Not Placed,0.0
+4649,Placed,18.07
+4650,Placed,14.36
+4651,Placed,12.5
+4652,Placed,18.6
+4653,Placed,18.26
+4654,Placed,13.03
+4655,Placed,16.69
+4656,Placed,16.42
+4657,Placed,20.0
+4658,Placed,20.0
+4659,Not Placed,0.0
+4660,Placed,17.28
+4661,Placed,18.86
+4662,Placed,19.74
+4663,Placed,16.93
+4664,Placed,13.45
+4665,Placed,13.25
+4666,Placed,16.25
+4667,Placed,17.29
+4668,Placed,14.15
+4669,Not Placed,0.0
+4670,Not Placed,0.0
+4671,Placed,16.41
+4672,Placed,13.67
+4673,Not Placed,0.0
+4674,Placed,20.0
+4675,Placed,18.43
+4676,Placed,14.85
+4677,Placed,17.76
+4678,Placed,20.0
+4679,Placed,13.58
+4680,Placed,15.39
+4681,Placed,12.43
+4682,Placed,14.3
+4683,Placed,10.4
+4684,Placed,15.01
+4685,Placed,13.92
+4686,Not Placed,0.0
+4687,Placed,17.57
+4688,Placed,13.58
+4689,Placed,16.24
+4690,Placed,12.72
+4691,Not Placed,0.0
+4692,Placed,12.24
+4693,Not Placed,0.0
+4694,Placed,16.09
+4695,Placed,13.41
+4696,Placed,15.95
+4697,Placed,16.28
+4698,Placed,8.41
+4699,Placed,11.43
+4700,Placed,17.59
+4701,Placed,13.43
+4702,Placed,15.47
+4703,Placed,20.0
+4704,Placed,19.7
+4705,Placed,17.95
+4706,Placed,13.95
+4707,Placed,15.76
+4708,Placed,13.61
+4709,Not Placed,0.0
+4710,Not Placed,0.0
+4711,Placed,16.01
+4712,Placed,12.21
+4713,Not Placed,0.0
+4714,Placed,14.63
+4715,Placed,11.34
+4716,Placed,16.43
+4717,Placed,17.13
+4718,Placed,17.66
+4719,Placed,16.82
+4720,Placed,17.39
+4721,Placed,15.26
+4722,Not Placed,0.0
+4723,Placed,18.77
+4724,Placed,12.8
+4725,Placed,15.74
+4726,Placed,12.89
+4727,Placed,8.2
+4728,Placed,16.31
+4729,Placed,14.07
+4730,Placed,15.1
+4731,Placed,20.0
+4732,Not Placed,0.0
+4733,Placed,14.59
+4734,Placed,10.76
+4735,Not Placed,0.0
+4736,Placed,18.61
+4737,Not Placed,0.0
+4738,Placed,20.0
+4739,Not Placed,0.0
+4740,Placed,20.0
+4741,Placed,19.54
+4742,Not Placed,0.0
+4743,Placed,17.74
+4744,Placed,14.37
+4745,Placed,17.36
+4746,Not Placed,0.0
+4747,Not Placed,0.0
+4748,Placed,16.74
+4749,Not Placed,0.0
+4750,Placed,13.43
+4751,Placed,16.52
+4752,Placed,18.92
+4753,Placed,14.44
+4754,Placed,7.55
+4755,Placed,17.6
+4756,Placed,15.92
+4757,Placed,18.83
+4758,Placed,13.66
+4759,Placed,15.37
+4760,Placed,11.51
+4761,Placed,19.84
+4762,Not Placed,0.0
+4763,Placed,15.47
+4764,Placed,15.84
+4765,Placed,18.29
+4766,Placed,18.67
+4767,Placed,17.38
+4768,Placed,15.85
+4769,Not Placed,0.0
+4770,Placed,20.0
+4771,Placed,17.83
+4772,Placed,19.15
+4773,Placed,20.0
+4774,Placed,11.76
+4775,Placed,8.44
+4776,Placed,17.25
+4777,Placed,13.26
+4778,Placed,16.04
+4779,Placed,8.41
+4780,Not Placed,0.0
+4781,Placed,11.93
+4782,Placed,18.75
+4783,Placed,15.16
+4784,Placed,20.0
+4785,Not Placed,0.0
+4786,Placed,15.91
+4787,Placed,13.93
+4788,Placed,19.02
+4789,Placed,13.8
+4790,Placed,20.0
+4791,Placed,18.09
+4792,Placed,13.69
+4793,Placed,19.5
+4794,Placed,15.69
+4795,Placed,16.59
+4796,Placed,13.77
+4797,Placed,18.67
+4798,Placed,9.27
+4799,Placed,13.3
+4800,Placed,19.73
+4801,Placed,20.0
+4802,Placed,17.31
+4803,Placed,16.0
+4804,Placed,16.35
+4805,Not Placed,0.0
+4806,Not Placed,0.0
+4807,Not Placed,0.0
+4808,Placed,17.45
+4809,Not Placed,0.0
+4810,Placed,12.33
+4811,Placed,17.33
+4812,Placed,20.0
+4813,Placed,18.45
+4814,Not Placed,0.0
+4815,Placed,19.73
+4816,Placed,14.19
+4817,Placed,10.57
+4818,Placed,14.46
+4819,Not Placed,0.0
+4820,Placed,17.29
+4821,Placed,12.72
+4822,Placed,13.29
+4823,Placed,18.99
+4824,Placed,20.0
+4825,Placed,9.98
+4826,Not Placed,0.0
+4827,Placed,18.33
+4828,Placed,18.0
+4829,Placed,14.88
+4830,Placed,15.11
+4831,Placed,12.42
+4832,Placed,13.37
+4833,Placed,20.0
+4834,Placed,19.23
+4835,Placed,16.1
+4836,Placed,17.68
+4837,Placed,14.6
+4838,Placed,16.5
+4839,Placed,13.11
+4840,Placed,14.52
+4841,Placed,20.0
+4842,Placed,17.27
+4843,Placed,17.07
+4844,Placed,14.12
+4845,Placed,14.68
+4846,Not Placed,0.0
+4847,Placed,17.12
+4848,Placed,20.0
+4849,Placed,17.7
+4850,Placed,14.71
+4851,Not Placed,0.0
+4852,Placed,18.35
+4853,Placed,14.47
+4854,Placed,15.03
+4855,Placed,15.4
+4856,Placed,18.39
+4857,Placed,15.87
+4858,Placed,17.19
+4859,Placed,17.86
+4860,Not Placed,0.0
+4861,Placed,19.94
+4862,Not Placed,0.0
+4863,Placed,16.31
+4864,Placed,18.99
+4865,Placed,16.2
+4866,Placed,14.42
+4867,Not Placed,0.0
+4868,Placed,19.79
+4869,Placed,15.85
+4870,Placed,15.93
+4871,Placed,17.63
+4872,Placed,20.0
+4873,Placed,16.48
+4874,Placed,20.0
+4875,Placed,12.13
+4876,Placed,17.03
+4877,Placed,11.36
+4878,Not Placed,0.0
+4879,Placed,19.51
+4880,Placed,16.52
+4881,Placed,10.82
+4882,Placed,9.09
+4883,Placed,14.78
+4884,Placed,15.45
+4885,Placed,15.73
+4886,Not Placed,0.0
+4887,Placed,20.0
+4888,Placed,20.0
+4889,Placed,12.75
+4890,Placed,11.81
+4891,Placed,15.6
+4892,Placed,18.18
+4893,Placed,19.61
+4894,Not Placed,0.0
+4895,Not Placed,0.0
+4896,Placed,17.72
+4897,Placed,18.04
+4898,Placed,8.03
+4899,Placed,14.87
+4900,Placed,17.6
+4901,Placed,14.19
+4902,Placed,12.76
+4903,Placed,13.18
+4904,Placed,14.21
+4905,Placed,13.39
+4906,Placed,18.49
+4907,Placed,17.2
+4908,Placed,19.55
+4909,Placed,20.0
+4910,Placed,15.39
+4911,Placed,12.83
+4912,Placed,16.4
+4913,Placed,13.88
+4914,Placed,19.6
+4915,Placed,20.0
+4916,Placed,14.32
+4917,Placed,15.82
+4918,Placed,17.58
+4919,Placed,17.97
+4920,Placed,17.59
+4921,Placed,15.17
+4922,Placed,20.0
+4923,Placed,17.89
+4924,Placed,18.27
+4925,Not Placed,0.0
+4926,Placed,16.58
+4927,Placed,19.28
+4928,Placed,16.44
+4929,Placed,15.26
+4930,Placed,15.43
+4931,Placed,18.0
+4932,Placed,18.84
+4933,Placed,14.65
+4934,Not Placed,0.0
+4935,Not Placed,0.0
+4936,Placed,20.0
+4937,Placed,14.92
+4938,Placed,13.71
+4939,Placed,19.23
+4940,Placed,15.23
+4941,Placed,19.92
+4942,Not Placed,0.0
+4943,Not Placed,0.0
+4944,Not Placed,0.0
+4945,Placed,20.0
+4946,Placed,14.16
+4947,Not Placed,0.0
+4948,Placed,18.38
+4949,Placed,11.08
+4950,Placed,11.53
+4951,Placed,15.65
+4952,Not Placed,0.0
+4953,Placed,15.09
+4954,Placed,13.91
+4955,Not Placed,0.0
+4956,Not Placed,0.0
+4957,Placed,16.35
+4958,Not Placed,0.0
+4959,Placed,15.7
+4960,Placed,14.63
+4961,Placed,15.71
+4962,Placed,15.11
+4963,Placed,12.64
+4964,Not Placed,0.0
+4965,Not Placed,0.0
+4966,Not Placed,0.0
+4967,Not Placed,0.0
+4968,Placed,16.77
+4969,Placed,17.51
+4970,Placed,19.97
+4971,Placed,20.0
+4972,Placed,20.0
+4973,Not Placed,0.0
+4974,Placed,16.67
+4975,Placed,14.55
+4976,Placed,17.64
+4977,Placed,20.0
+4978,Not Placed,0.0
+4979,Placed,15.83
+4980,Placed,17.09
+4981,Placed,17.35
+4982,Not Placed,0.0
+4983,Placed,15.01
+4984,Not Placed,0.0
+4985,Not Placed,0.0
+4986,Placed,19.03
+4987,Not Placed,0.0
+4988,Placed,13.09
+4989,Not Placed,0.0
+4990,Placed,15.7
+4991,Placed,19.16
+4992,Placed,16.49
+4993,Placed,18.39
+4994,Placed,13.65
+4995,Placed,18.39
+4996,Placed,19.35
+4997,Not Placed,0.0
+4998,Placed,19.13
+4999,Placed,16.53
+5000,Placed,20.0
